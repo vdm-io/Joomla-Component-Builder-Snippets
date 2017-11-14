@@ -1,0 +1,16 @@
+{
+    "name": "Scrollspy default",
+    "heading": "Trigger events and animations while scrolling your page.",
+    "description": "",
+    "usage": "The scrollspy component listens to page scrolling and triggers events based on the scroll position. For example, if you scroll down a page and an element appears the first time in the viewport you can trigger a smooth animation to fade in the element. Just add the data-uk-scrollspy attribute and the following options.",
+    "snippet": "<div data-uk-scrollspy=\"{cls:'uk-animation-fade'}\">...<\/div>\r\n\r\n<div data-uk-scrollspy=\"{cls:'uk-animation-fade', repeat: true}\">...<\/div>\r\n\r\n<div data-uk-scrollspy=\"{cls:'uk-animation-fade', delay:900}\">...<\/div>",
+    "url": "http:\/\/getuikit.com\/docs\/scrollspy.html",
+    "type": "JavaScript",
+    "library": "Uikit v2",
+    "created": "2015-06-01 20:15:00",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Thumbnav",
+    "heading": "Create a tabbed navigation with different styles.",
+    "description": "",
+    "usage": "To apply this component, add the .uk-thumbnav class to an  element and nest your thumbnail images inside  elements within the list items. The thumbnav will wrap into several rows, if it is wider than its container and automatically applies a gutter. Add the .uk-active class to create an active state.\r\n\r\nTo align a subnav, for example to horizontally center it, you can use the Flex component.",
+    "snippet": "<ul class=\"uk-thumbnav\">\r\n    <li class=\"uk-active\"><a href=\"\"><img src=\"\" alt=\"\"><\/a><\/li>\r\n    <li><a href=\"\"><img src=\"\" alt=\"\"><\/a><\/li>\r\n<\/ul>",
+    "url": "http:\/\/getuikit.com\/docs\/thumbnav.html",
+    "type": "Navigations",
+    "library": "Uikit v2",
+    "created": "2015-05-19 20:48:42",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

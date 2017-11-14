@@ -1,0 +1,16 @@
+{
+    "name": "Text large",
+    "heading": "A collection of useful text utility classes to style your content.",
+    "description": "",
+    "usage": "UIkit offers various text utlities to style your text. ",
+    "snippet": "<span class=\"uk-text-large\">Add this class to decrease the font size.<\/span>",
+    "url": "http:\/\/getuikit.com\/docs\/text.html",
+    "type": "Common",
+    "library": "Uikit v2",
+    "created": "2015-06-01 16:29:14",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

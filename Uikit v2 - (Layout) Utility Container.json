@@ -1,0 +1,16 @@
+{
+    "name": "Utility Container",
+    "heading": "A collection of useful utility classes to style your content.",
+    "description": "",
+    "usage": "Add the .uk-container class to a block element to give it a max-width and wrap the main content of your website. For large screens it applies a different max-width.\r\n\r\nTo center the container, use the .uk-container-center class. For any other block element, you additionally need to apply a width.",
+    "snippet": "<div class=\"uk-width-medium-1-2 uk-container-center\">{content}<\/div>",
+    "url": "http:\/\/getuikit.com\/docs\/utility.html",
+    "type": "Layout",
+    "library": "Uikit v2",
+    "created": "2015-05-19 20:18:00",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

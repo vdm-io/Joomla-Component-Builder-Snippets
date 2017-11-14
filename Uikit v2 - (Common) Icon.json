@@ -1,0 +1,16 @@
+{
+    "name": "Icon",
+    "heading": "Place vector icons anywhere using an icon font.",
+    "description": "This component is using the fantastic Font Awesome icon font, a project by Dave Gandy. Altogether Font Awesome provides more than 300 symbols and glyphs for web-related actions. Icon fonts are great, because they enable you to easily change color, size and more via CSS. They are scalable vector graphics, which means that they look great on high-resolution displays.",
+    "usage": "To apply this component, add any .uk-icon-* class to an  or  element. Et voil\u00e0, you have a vector icon, which inherits size and color just like your text does.",
+    "snippet": "<i class=\"uk-icon-cog\"><\/i>",
+    "url": "http:\/\/getuikit.com\/docs\/icon.html",
+    "type": "Common",
+    "library": "Uikit v2",
+    "created": "2015-06-01 16:24:46",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

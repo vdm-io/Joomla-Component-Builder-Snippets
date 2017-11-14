@@ -1,0 +1,16 @@
+{
+    "name": "Accordion",
+    "heading": "Create a list of items, allowing each item's content to be expanded and collapsed by clicking its header.",
+    "description": "To display multiple content sections at the same time without one collapsing when the other one is opened, add the {collapse: false} option to the date attribute.",
+    "usage": "To apply the Accordion component, add the uk-accordion class and the data-uk-accordion attribute to a container element. Add the uk-accordion-content class to each of the content sections within the container. Finally, add the uk-accordion-title class to any element, like a heading, above the content section to create a toggle.",
+    "snippet": "<div class=\"uk-accordion\" data-uk-accordion>\r\n\r\n    <h3 class=\"uk-accordion-title\">...<\/h3>\r\n    <div class=\"uk-accordion-content\">...<\/div>\r\n\r\n    <h3 class=\"uk-accordion-title\">...<\/h3>\r\n    <div class=\"uk-accordion-content\">...<\/div>\r\n\r\n    <h3 class=\"uk-accordion-title\">...<\/h3>\r\n    <div class=\"uk-accordion-content\">...<\/div>\r\n\r\n<\/div>",
+    "url": "http:\/\/getuikit.com\/docs\/accordion.html",
+    "type": "JavaScript",
+    "library": "Uikit v2",
+    "created": "2015-06-01 20:24:59",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

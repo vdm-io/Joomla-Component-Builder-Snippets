@@ -1,0 +1,16 @@
+{
+    "name": "Pagination",
+    "heading": "Easlily create a nicely looking pagination to navigate through pages.",
+    "description": "",
+    "usage": "The Pagination component consists of button-like styled links, that are aligned side by side.",
+    "snippet": "<ul class=\"uk-pagination\">\r\n    <li><a href=\"#\">1<\/a><\/li>\r\n    <li><span>...<\/span><\/li>\r\n    <li><a href=\"#\">8<\/a><\/li>\r\n    <li><a href=\"#\">9<\/a><\/li>\r\n    <li class=\"uk-active\"><span>10<\/span><\/li>\r\n    <li><a href=\"#\">11<\/a><\/li>\r\n    <li><a href=\"#\">12<\/a><\/li>\r\n    <li><span>...<\/span><\/li>\r\n    <li><a href=\"#\">20<\/a><\/li>\r\n<\/ul>",
+    "url": "http:\/\/getuikit.com\/docs\/pagination.html",
+    "type": "Navigations",
+    "library": "Uikit v2",
+    "created": "2015-05-19 20:45:49",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

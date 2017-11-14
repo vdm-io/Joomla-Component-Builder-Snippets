@@ -1,0 +1,16 @@
+{
+    "name": "Toggle default",
+    "heading": "Hide, switch or change the appearence of different contents through a toggle.",
+    "description": "",
+    "usage": "To apply this component, just add the data-uk-toggle=\"{target: #ID}\" attribute to a  or  element. You can use any selector with the toggle attribute.\r\n\r\nThe toggle will add or remove a class from the item. By default, it adds the .uk-hidden class to hide the element.",
+    "snippet": "<button class=\"uk-button\" data-uk-toggle=\"{target:'#my-id'}\">...<\/button>\r\n\r\n<div id=\"my-id\">...<\/div>",
+    "url": "http:\/\/getuikit.com\/docs\/toggle.html",
+    "type": "JavaScript",
+    "library": "Uikit v2",
+    "created": "2015-06-01 20:12:07",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

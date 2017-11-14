@@ -1,0 +1,16 @@
+{
+    "name": "Lightbox groups-image",
+    "heading": "Create a fancy lightbox for images and videos utilizing the Modal component.",
+    "description": "You can link multiple images to the same lightbox and switch between them from within the lightbox, thus creating a gallery. Just add the {group:'my-group'} option to the data attribute of each item using the same name on all items that you want to group. Make sure to include the CSS from the Slidenav component, so you can navigate between the items.",
+    "usage": "To apply this component, add the data-uk-lightbox attribute to an anchor linking to the image you wish to display. If a title attribute exists it will be displayed as a caption for the lightbox.",
+    "snippet": "<div data-uk-grid-margin=\"\" class=\"uk-grid uk-grid-width-medium-1-4\">\r\n    <div>\r\n        <a title=\"Title\" data-uk-lightbox=\"{group:'group1'}\" href=\"images\/placeholder_800x600_1.jpg\">\r\n            <img width=\"800\" height=\"600\" alt=\"\" src=\"images\/placeholder_800x600_1.jpg\">\r\n        <\/a>\r\n    <\/div>\r\n    <div>\r\n        <a title=\"Title\" data-uk-lightbox=\"{group:'group1'}\" data-lightbox-type=\"image\" href=\"images\/placeholder_800x600_2.jpg\">\r\n            <img width=\"800\" height=\"600\" alt=\"\" src=\"images\/placeholder_800x600_2.jpg\">\r\n        <\/a>\r\n    <\/div>\r\n    <div>\r\n        <a title=\"Title\" data-uk-lightbox=\"{group:'group1'}\" data-lightbox-type=\"image\" href=\"images\/placeholder_800x600_3.jpg\">\r\n            <img width=\"800\" height=\"600\" alt=\"\" src=\"images\/placeholder_800x600_3.jpg\">\r\n        <\/a>\r\n    <\/div>\r\n    <div>\r\n        <a title=\"Title\" data-uk-lightbox=\"{group:'group1'}\" data-lightbox-type=\"image\" href=\"images\/placeholder_800x600_4.jpg\">\r\n            <img width=\"800\" height=\"600\" alt=\"\" src=\"images\/placeholder_800x600_4.jpg\">\r\n        <\/a>\r\n    <\/div>\r\n<\/div>",
+    "url": "http:\/\/getuikit.com\/docs\/lightbox.html",
+    "type": "JavaScript",
+    "library": "Uikit v2",
+    "created": "2015-06-01 20:21:01",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

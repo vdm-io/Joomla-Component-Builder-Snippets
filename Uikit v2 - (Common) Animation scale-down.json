@@ -1,0 +1,16 @@
+{
+    "name": "Animation scale-down",
+    "heading": "A basic collection of smooth animations to use within your page.",
+    "description": "",
+    "usage": "To apply this component, add any .uk-animation-* class to an element and it will fade in with a nice animation. These classes are commonly set by using JavaScript to apply the animation to specific behaviors.",
+    "snippet": "<div class=\"uk-animation-scale-down\">...<\/div>",
+    "url": "http:\/\/getuikit.com\/docs\/animation.html",
+    "type": "Common",
+    "library": "Uikit v2",
+    "created": "2015-06-01 16:34:11",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

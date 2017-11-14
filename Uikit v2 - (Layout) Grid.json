@@ -1,0 +1,16 @@
+{
+    "name": "Grid",
+    "heading": "Create a fully responsive, fluid and nestable grid layout.",
+    "description": "The grid system of UIkit follows the mobile-first approach and accomodates up to 10 grid columns. It uses units with predefined classes inside each grid, which define the column width. It is also possible to combine the grid with classes from the Flex component, although it works only in modern browsers.",
+    "usage": "To create the grid container, add the .uk-grid class to a parent element. Add one of the .uk-width-* classes to child elements to determine, how the units shall be sized. The grid supports 1, 2, 3, 4, 5, 6 and 10 unit divisions. This table gives you an overview of the uk-width-* classes that can be applied to units.",
+    "snippet": "<div data-uk-grid-margin=\"\" class=\"tm-grid-truncate uk-grid uk-grid-divider uk-text-center\">\r\n    <div class=\"uk-width-medium-1-3\">\r\n    \t<div class=\"uk-panel uk-panel-box\">\r\n        \t{content}\r\n        <\/div>\r\n    <\/div>\r\n    <div class=\"uk-width-medium-1-3\">\r\n    \t<div class=\"uk-panel uk-panel-box\">\r\n        \t{content}\r\n        <\/div>\r\n    <\/div>\r\n    <div class=\"uk-width-medium-1-3\">\r\n    \t<div class=\"uk-panel uk-panel-box\">\r\n        \t{content}\r\n        <\/div>\r\n    <\/div>\r\n<\/div>",
+    "url": "http:\/\/getuikit.com\/docs\/grid.html",
+    "type": "Layout",
+    "library": "Uikit v2",
+    "created": "2015-05-19 17:18:32",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

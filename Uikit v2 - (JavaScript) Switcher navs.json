@@ -1,0 +1,16 @@
+{
+    "name": "Switcher navs",
+    "heading": "Dynamically transition through different content panes.",
+    "description": "To apply the switcher to the Nav component, add the data attribute to the nav . Use the Grid component to arrange nav and content in a grid layout.",
+    "usage": "The switcher component consists of a number of toggles and their related content items. Add the data-uk-switcher=\"{connect:'#ID'}\" attribute to the element which contains the toggles, targetting the same id as is used on the element containing the content items. Add the .uk-switcher class to the same element. Typically the switcher is combined with other components, some of which will be shown here.",
+    "snippet": "<div class=\"uk-grid\">\r\n    <div class=\"uk-width-medium-1-4\">\r\n\r\n        <!-- This is the nav containing the toggling elements -->\r\n        <ul class=\"uk-nav uk-nav-side\" data-uk-switcher=\"{connect:'#my-id'}\">\r\n            <li><a href=\"\">...<\/a><\/li>\r\n        <\/ul>\r\n    <\/div>\r\n    <div class=\"uk-width-medium-3-4\">\r\n\r\n        <!-- This is the container of the content items -->\r\n        <ul id=\"my-id\" class=\"uk-switcher\">\r\n            <li>...<\/li>\r\n        <\/ul>\r\n    <\/div>\r\n<\/div>",
+    "url": "http:\/\/getuikit.com\/docs\/switcher.html",
+    "type": "JavaScript",
+    "library": "Uikit v2",
+    "created": "2015-06-01 20:10:30",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

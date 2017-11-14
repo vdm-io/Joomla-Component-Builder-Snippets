@@ -1,0 +1,16 @@
+{
+    "name": "Tab",
+    "heading": "Create a tabbed navigation with different styles.",
+    "description": "",
+    "usage": "The Tab component consists of clickable tabs, that are aligned side by side.\r\n\r\nThe data-uk-tab attribute is required for two purposes. Firstly, it enables the responsive behaviour. If the parent container is too small to accomodate all tabs, they will be combined into a dropdown, toggled by a single tab, which represents the active tab item. This also requires the Dropdown component in order to work.\r\n\r\nAnd secondly, its functionality is coupled to the Switcher component, which is necessary to dynamically transition through different contents using tabbed navigation.",
+    "snippet": "<ul class=\"uk-tab\" data-uk-tab>\r\n    <li class=\"uk-active\"><a href=\"\">Active<\/a><\/li>\r\n    <li><a href=\"\">Item<\/a><\/li>\r\n    <li><a href=\"\">Item<\/a><\/li>\r\n    <li class=\"uk-disabled\"><a href=\"\">Disabled<\/a><\/li>\r\n<\/ul>",
+    "url": "http:\/\/getuikit.com\/docs\/tab.html",
+    "type": "Navigations",
+    "library": "Uikit v2",
+    "created": "2015-05-19 20:47:34",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

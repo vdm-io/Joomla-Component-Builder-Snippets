@@ -1,0 +1,16 @@
+{
+    "name": "Lightbox content-sources",
+    "heading": "Create a fancy lightbox for images and videos utilizing the Modal component.",
+    "description": "A lightbox is not restricted to images. Other media, like videos, can be displayed inside a lightbox and it will automatically generate the correct output by evaluating your path.",
+    "usage": "To apply this component, add the data-uk-lightbox attribute to an anchor linking to the image you wish to display. If a title attribute exists it will be displayed as a caption for the lightbox.",
+    "snippet": "<p>\r\n    <a title=\"Title\" data-uk-lightbox=\"{group:'group2'}\" href=\"images\/placeholder_800x600_1.jpg\" class=\"uk-button\">Image<\/a>\r\n    <a data-uk-lightbox=\"{group:'group2'}\" href=\"http:\/\/www.quirksmode.org\/html5\/videos\/big_buck_bunny.mp4\" class=\"uk-button\">MP4<\/a>\r\n    <a data-uk-lightbox=\"{group:'group2'}\" href=\"http:\/\/vimeo.com\/1084537\" class=\"uk-button\">Vimeo<\/a>\r\n    <a data-uk-lightbox=\"{group:'group2'}\" href=\"https:\/\/www.youtube.com\/watch?v=YE7VzlLtp-4\" class=\"uk-button\">YouTube<\/a>\r\n<\/p>",
+    "url": "http:\/\/getuikit.com\/docs\/lightbox.html",
+    "type": "JavaScript",
+    "library": "Uikit v2",
+    "created": "2015-06-01 20:22:21",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

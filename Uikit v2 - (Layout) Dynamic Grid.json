@@ -1,0 +1,16 @@
+{
+    "name": "Dynamic Grid",
+    "heading": "Create a multi-column, dynamic grid layout whose items can be sorted and filtered.",
+    "description": "The Dynamic Grid component allows you to create a dynamic and responsive grid layout utilizing the Grid component. Grid items will arrange themselves fluently and seamlessly for a gap-free multi-column layout on all device sizes.",
+    "usage": "To apply this component, add the data-uk-grid attribute to the container element. Set the width of the grid items by using the uk-width-* or .uk-grid-width-* classes from the Grid component.",
+    "snippet": "<!-- This is a grid using uk-width-* on each item -->\r\n<div data-uk-grid>\r\n    <div class=\"uk-width-small-1-2 uk-width-medium-1-4\">{content}<\/div>\r\n    <div class=\"uk-width-small-1-2 uk-width-medium-1-4\">{content}<\/div>\r\n<\/div>\r\n\r\n<!-- This is a grid using uk-grid-width-* on the grid itself -->\r\n<div class=\"uk-grid-width-small-1-2 uk-grid-width-medium-1-4\" data-uk-grid>\r\n    <div>{content}<\/div>\r\n    <div>{content}<\/div>\r\n<\/div>\r\n\r\n<!-- Filter Controls -->\r\n<ul id=\"my-id\" class=\"uk-subnav\">\r\n    <li data-uk-filter=\"\"><a href=\"\">All<\/a><\/li>\r\n    <li data-uk-filter=\"filter-a\"><a href=\"\">A Filter<\/a><\/li>\r\n    <li data-uk-filter=\"filter-b\"><a href=\"\">b Filter<\/a><\/li>\r\n<\/ul>\r\n<!-- Dynamic Grid -->\r\n<div data-uk-grid=\"{controls: '#my-id'}\">\r\n    <div data-uk-filter=\"filter-a\">{content}<\/div>\r\n    <div data-uk-filter=\"filter-b\">{content}<\/div>\r\n<\/div>",
+    "url": "http:\/\/getuikit.com\/docs\/grid-js.html",
+    "type": "Layout",
+    "library": "Uikit v2",
+    "created": "2015-05-19 20:35:29",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

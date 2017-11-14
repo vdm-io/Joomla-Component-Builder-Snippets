@@ -1,0 +1,16 @@
+{
+    "name": "Lightbox single-image",
+    "heading": "Create a fancy lightbox for images and videos utilizing the Modal component.",
+    "description": "",
+    "usage": "To apply this component, add the data-uk-lightbox attribute to an anchor linking to the image you wish to display. If a title attribute exists it will be displayed as a caption for the lightbox.",
+    "snippet": "<a title=\"Title\" data-uk-lightbox=\"\" href=\"\" class=\"uk-button\">Open lightbox<\/a>",
+    "url": "http:\/\/getuikit.com\/docs\/lightbox.html",
+    "type": "JavaScript",
+    "library": "Uikit v2",
+    "created": "2015-06-01 20:18:50",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

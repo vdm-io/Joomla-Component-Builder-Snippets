@@ -1,0 +1,16 @@
+{
+    "name": "Table",
+    "heading": "Easily create nicely looking tables, which come in different styles.",
+    "description": "",
+    "usage": "To apply this component, add the .uk-table class to a  element.",
+    "snippet": "<table class=\"uk-table uk-table-hover\">\r\n    <caption>...<\/caption>\r\n    <thead>\r\n        <tr>\r\n            <th>...<\/th>\r\n        <\/tr>\r\n    <\/thead>\r\n    <tfoot>\r\n        <tr>\r\n            <td>...<\/td>\r\n        <\/tr>\r\n    <\/tfoot>\r\n    <tbody>\r\n        <tr>\r\n            <td>...<\/td>\r\n        <\/tr>\r\n    <\/tbody>\r\n<\/table>",
+    "url": "http:\/\/getuikit.com\/docs\/table.html",
+    "type": "Elements",
+    "library": "Uikit v2",
+    "created": "2015-06-01 16:12:46",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

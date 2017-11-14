@@ -1,0 +1,16 @@
+{
+    "name": "Panel",
+    "heading": "Create layout boxes with different styles.",
+    "description": "UIkit uses panels to outline certain sections of your content, which can be styled differently. Typically, panels are arranged in grid columns from the Grid component.",
+    "usage": "The Panel component consists of the panel itself, the panel title and a panel badge. To prevent redundant white space, top and bottom margins are removed from the panel's content.",
+    "snippet": "<div data-uk-grid-margin=\"\" class=\"uk-grid\">\r\n    <div class=\"uk-width-medium-1-2\">\r\n        <div class=\"uk-panel uk-panel-box\">\r\n            <h3 class=\"uk-panel-title\">{title}<\/h3>\r\n            {content}\r\n        <\/div>\r\n    <\/div>\r\n    <div class=\"uk-width-medium-1-2\">\r\n        <div class=\"uk-panel uk-panel-box\">\r\n            <h3 class=\"uk-panel-title\">{title}<\/h3>\r\n            {content}\r\n        <\/div>\r\n    <\/div>\r\n<\/div>",
+    "url": "http:\/\/getuikit.com\/docs\/panel.html",
+    "type": "Layout",
+    "library": "Uikit v2",
+    "created": "2015-05-19 20:04:54",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

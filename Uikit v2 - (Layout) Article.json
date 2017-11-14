@@ -1,0 +1,16 @@
+{
+    "name": "Article",
+    "heading": "Create articles within your page.",
+    "description": "",
+    "usage": "The article component consists of the article itself, a title, meta data, an opening paragraph and dividers.",
+    "snippet": "<article class=\"uk-article\">\r\n    <h1 class=\"uk-article-title\">{title}<\/h1>\r\n    <p class=\"uk-article-meta\">{meta}<\/p>\r\n    <p class=\"uk-article-lead\">{content}<\/p>\r\n    {content}\r\n    <hr class=\"uk-article-divider\">\r\n    {content}\r\n<\/article>",
+    "url": "http:\/\/getuikit.com\/docs\/article.html",
+    "type": "Layout",
+    "library": "Uikit v2",
+    "created": "2015-05-19 20:12:06",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

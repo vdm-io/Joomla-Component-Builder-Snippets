@@ -1,0 +1,16 @@
+{
+    "name": "Block",
+    "heading": "Separate content sections by bundling them in blocks with different styles.",
+    "description": "",
+    "usage": "To apply this component, just add the .uk-block class to a container element.",
+    "snippet": "<div class=\"uk-block uk-block-primary\">{content}<\/div>",
+    "url": "http:\/\/getuikit.com\/docs\/block.html",
+    "type": "Layout",
+    "library": "Uikit v2",
+    "created": "2015-05-19 20:09:41",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

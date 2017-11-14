@@ -1,0 +1,16 @@
+{
+    "name": "Breadcrumb",
+    "heading": "Create breadcrumbs to show users their location within a website.",
+    "description": "",
+    "usage": "The Breadcrumb component consists of links which are aligned side by side and separated by a divider.",
+    "snippet": "<ul class=\"uk-breadcrumb\">\r\n    <li><a href=\"#\">Home<\/a><\/li>\r\n    <li><a href=\"#\">Blog<\/a><\/li>\r\n    <li><span>Category<\/span><\/li>\r\n    <li class=\"uk-active\"><span>Post<\/span><\/li>\r\n<\/ul>",
+    "url": "http:\/\/getuikit.com\/docs\/breadcrumb.html",
+    "type": "Navigations",
+    "library": "Uikit v2",
+    "created": "2015-05-19 20:44:01",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

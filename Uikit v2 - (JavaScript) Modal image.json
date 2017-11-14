@@ -1,0 +1,16 @@
+{
+    "name": "Modal image",
+    "heading": "Create modal dialogs with different styles and transitions.",
+    "description": "",
+    "usage": "The modal component consists of an overlay, a dialog and a close button.",
+    "snippet": "<!-- This is a button toggling the modal -->\r\n<button class=\"uk-button\" data-uk-modal=\"{target:'#my-id'}\">...<\/button>\r\n\r\n<!-- This is the modal -->\r\n<div id=\"my-id\" class=\"uk-modal\">\r\n    <div class=\"uk-modal-dialog uk-modal-dialog-lightbox\">\r\n        <a href=\"\" class=\"uk-modal-close uk-close uk-close-alt\"><\/a>\r\n        <img src=\"\" alt=\"\">\r\n    <\/div>\r\n<\/div>",
+    "url": "http:\/\/getuikit.com\/docs\/modal.html",
+    "type": "JavaScript",
+    "library": "Uikit v2",
+    "created": "2015-06-01 19:58:26",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

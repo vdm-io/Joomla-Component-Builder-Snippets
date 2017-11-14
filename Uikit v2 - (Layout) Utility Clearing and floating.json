@@ -1,0 +1,16 @@
+{
+    "name": "Utility Clearing and floating",
+    "heading": "A collection of useful utility classes to style your content.",
+    "description": "",
+    "usage": "Floating is fundamental for creating all kinds of layouts. But floats need to be cleared or in the worst case, you might end up with a scrambled site. The following classes will help you to setup basic layouts.",
+    "snippet": "<div class=\"uk-clearfix\">\r\n    <div class=\"uk-float-right\">{content}<\/div>\r\n    <div class=\"uk-float-left\">{content}<\/div>\r\n<\/div>",
+    "url": "http:\/\/getuikit.com\/docs\/utility.html",
+    "type": "Layout",
+    "library": "Uikit v2",
+    "created": "2015-05-19 20:18:54",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

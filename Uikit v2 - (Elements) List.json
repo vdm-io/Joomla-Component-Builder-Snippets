@@ -1,0 +1,16 @@
+{
+    "name": "List",
+    "heading": "Easily create nicely looking lists, which come in different styles.",
+    "description": "Modifiers\r\n\r\nTo display the list in a different style, just add a modifier class to the the .uk-list class. The modifiers of the List component are not combinable with each other.",
+    "usage": "To apply this component, add the .uk-list class to an unordered or ordered list. The list will now display without any spacing or list-style. [uk-list-line] [uk-list-space]",
+    "snippet": "<ul class=\"uk-list uk-list-striped\">\r\n    <li>...<\/li>\r\n    <li>...<\/li>\r\n    <li>...<\/li>\r\n<\/ul>",
+    "url": "http:\/\/getuikit.com\/docs\/list.html",
+    "type": "Elements",
+    "library": "Uikit v2",
+    "created": "2015-06-01 16:09:04",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

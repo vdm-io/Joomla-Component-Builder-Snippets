@@ -1,0 +1,16 @@
+{
+    "name": "Cover",
+    "heading": "Expand images or videos to cover their entire container.",
+    "description": "This component allows you to create fullscreen teasers using images, objects or even iframes. Regardless what kind of element, it will always be centered vertically and horizontally and cover its container without losing its proportions. You can also place additional content, like text or an image, on top of the image or video.",
+    "usage": "The Cover component is applied differently, depending on whether you are using a background image, an object or an iframe. The simplest way is to add the .uk-cover-background class to a  element with a background image.",
+    "snippet": "<div class=\"uk-cover\">\r\n    <video class=\"uk-cover-object\" width=\"\" height=\"\">\r\n        <source src=\"\" type=\"\">\r\n    <\/video>\r\n<\/div>\r\n\r\n<div class=\"uk-cover-background\">\r\n    <img class=\"uk-invisible\" src=\"\" width=\"\" height=\"\" alt=\"\">\r\n<\/div>\r\n\r\n<div class=\"uk-cover uk-position-relative\">\r\n    <img class=\"uk-invisible\" src=\"\" width=\"\" height=\"\" alt=\"\">\r\n    <video class=\"uk-cover-object uk-position-absolute\" width=\"\" height=\"\">\r\n        <source src=\"\" type=\"\">\r\n    <\/video>\r\n<\/div>\r\n\r\n<div class=\"uk-cover-background uk-position-relative\">\r\n    <img class=\"uk-invisible\" src=\"\" width=\"\" height=\"\" alt=\"\">\r\n    <div class=\"uk-position-cover uk-flex uk-flex-center uk-flex-middle\">{content}<\/div>\r\n<\/div>",
+    "url": "http:\/\/getuikit.com\/docs\/cover.html",
+    "type": "Layout",
+    "library": "Uikit v2",
+    "created": "2015-05-19 20:29:57",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

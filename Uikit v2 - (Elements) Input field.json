@@ -1,0 +1,16 @@
+{
+    "name": "Input field",
+    "heading": "Add Input field - row",
+    "description": "This is a input field for uikit form",
+    "usage": "",
+    "snippet": "        <div class=\"uk-form-row\">\r\n\t\t<label class=\"uk-form-label\" >\r\n\t\t\t<?php echo JText::_('Label'); ?>\r\n\t\t<\/label>\r\n\t\t<input type=\"text\" name=\"key\" placeholder=\"<?php echo JText::_('add some text here!'); ?>\"> <span class=\"uk-form-help-inline\"><?php echo JText::_('help needed'); ?><\/span>\r\n\t<\/div>",
+    "url": "http:\/\/getuikit.com\/docs\/form.html",
+    "type": "Elements",
+    "library": "Uikit v2",
+    "created": "2015-11-29 03:54:40",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

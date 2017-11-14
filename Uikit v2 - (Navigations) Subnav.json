@@ -1,0 +1,16 @@
+{
+    "name": "Subnav",
+    "heading": "Defines different styles for a sub navigation.",
+    "description": "",
+    "usage": "To apply this component, use the following classes. To align a subnav, for example to horizontally center it, you can use the Flex component.",
+    "snippet": "<ul class=\"uk-subnav uk-subnav-pill\">\r\n    <li class=\"uk-active\"><a href=\"#\">Active<\/a><\/li>\r\n    <li><a href=\"#\">Item<\/a><\/li>\r\n    <li class=\"uk-disabled\"><a href=\"#\">Disabled<\/a><\/li>\r\n    <li data-uk-dropdown=\"{mode:'click'}\">\r\n        <a href=\"#\">More <i class=\"uk-icon-caret-down\"><\/i><\/a>\r\n        <div class=\"uk-dropdown uk-dropdown-small\">\r\n            <ul class=\"uk-nav uk-nav-dropdown\">\r\n                <li><a href=\"#\">Item<\/a><\/li>\r\n                <li><a href=\"#\">Another item<\/a><\/li>\r\n                <li class=\"uk-nav-header\">Header<\/li>\r\n                <li><a href=\"#\">Item<\/a><\/li>\r\n                <li><a href=\"#\">Another item<\/a><\/li>\r\n                <li class=\"uk-nav-divider\"><\/li>\r\n                <li><a href=\"#\">Separated item<\/a><\/li>\r\n            <\/ul>\r\n        <\/div>\r\n    <\/li>\r\n<\/ul>",
+    "url": "http:\/\/getuikit.com\/docs\/subnav.html",
+    "type": "Navigations",
+    "library": "Uikit v2",
+    "created": "2015-05-19 20:42:37",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

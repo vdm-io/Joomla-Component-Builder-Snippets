@@ -1,0 +1,16 @@
+{
+    "name": "Button large",
+    "heading": "Easily create nicely looking buttons, which come in different styles.",
+    "description": "",
+    "usage": "To apply this component, add the .uk-button class to an  or  element. Now you have created a button. Add the disabled attribute to a  element to disable the button.",
+    "snippet": "<button class=\"uk-button uk-button-large\" type=\"button\">...<\/button>",
+    "url": "http:\/\/getuikit.com\/docs\/button.html",
+    "type": "Common",
+    "library": "Uikit v2",
+    "created": "2015-06-01 16:20:58",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

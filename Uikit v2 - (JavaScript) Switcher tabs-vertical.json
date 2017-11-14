@@ -1,0 +1,16 @@
+{
+    "name": "Switcher tabs-vertical",
+    "heading": "Dynamically transition through different content panes.",
+    "description": "Use the Grid component to display content correctly with a vertical tabbed navigation.",
+    "usage": "The switcher component consists of a number of toggles and their related content items. Add the data-uk-switcher=\"{connect:'#ID'}\" attribute to the element which contains the toggles, targetting the same id as is used on the element containing the content items. Add the .uk-switcher class to the same element. Typically the switcher is combined with other components, some of which will be shown here.",
+    "snippet": "<!-- This is the left vertical tabbed navigation -->\r\n<div class=\"uk-grid\">\r\n    <div class=\"uk-width-medium-1-2\">\r\n        <!-- This is the vertical tabbed navigation containing the toggling elements -->\r\n        <ul class=\"uk-tab uk-tab-left\" data-uk-tab=\"{connect:'#my-id'}\">...<\/ul>\r\n    <\/div>\r\n    <div class=\"uk-width-medium-1-2\">\r\n        <!-- This is the container of the content items -->\r\n        <ul id=\"my-id\" class=\"uk-switcher\">...<\/ul>\r\n    <\/div>\r\n<\/div>\r\n\r\n<!-- This is the right vertical tabbed navigation -->\r\n<div class=\"uk-grid\">\r\n    <div class=\"uk-width-medium-1-2 uk-push-1-2\">\r\n        <!-- This is the vertical tabbed navigation containing the toggling elements -->\r\n        <ul class=\"uk-tab uk-tab-right\" data-uk-tab=\"{connect:'#my-id'}\">...<\/ul>\r\n    <\/div>\r\n    <div class=\"uk-width-medium-1-2 uk-pull-1-2\">\r\n        <!-- This is the container of the content items -->\r\n        <ul id=\"my-id\" class=\"uk-switcher\">...<\/ul>\r\n    <\/div>\r\n<\/div>",
+    "url": "http:\/\/getuikit.com\/docs\/switcher.html",
+    "type": "JavaScript",
+    "library": "Uikit v2",
+    "created": "2015-06-01 20:09:01",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

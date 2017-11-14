@@ -1,0 +1,16 @@
+{
+    "name": "Badge",
+    "heading": "Easlily create nicely looking badges to label and highlight your content.",
+    "description": "",
+    "usage": "To create a badge, just add the .uk-badge class to a  or  element.",
+    "snippet": "<div class=\"uk-badge\">...<\/div>",
+    "url": "http:\/\/getuikit.com\/docs\/badge.html",
+    "type": "Common",
+    "library": "Uikit v2",
+    "created": "2015-06-01 16:25:53",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

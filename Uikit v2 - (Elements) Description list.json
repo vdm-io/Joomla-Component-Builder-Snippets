@@ -1,0 +1,16 @@
+{
+    "name": "Description list",
+    "heading": "Easily create nicely looking description lists, which come in different styles.",
+    "description": "Add the .uk-description-list-horizontal class to display terms and descriptions side by side.",
+    "usage": "There is no component class necessary to create a description list, but UIkit provides a couple of modifier classes to display the list in a different style. The modifiers of the Description list component are not combinable with each other. [uk-description-list-line]",
+    "snippet": "<dl class=\"uk-description-list-horizontal\">\r\n    <dt>...<\/dt>\r\n    <dd>...<\/dd>\r\n<\/dl>",
+    "url": "http:\/\/getuikit.com\/docs\/description-list.html",
+    "type": "Elements",
+    "library": "Uikit v2",
+    "created": "2015-06-01 16:10:54",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

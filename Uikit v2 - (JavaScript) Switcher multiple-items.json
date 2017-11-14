@@ -1,0 +1,16 @@
+{
+    "name": "Switcher multiple-items",
+    "heading": "Dynamically transition through different content panes.",
+    "description": "It is also possible to connect multiple content containers. Just extend the connect parameter with the ID of the additional container.",
+    "usage": "The switcher component consists of a number of toggles and their related content items. Add the data-uk-switcher=\"{connect:'#ID'}\" attribute to the element which contains the toggles, targetting the same id as is used on the element containing the content items. Add the .uk-switcher class to the same element. Typically the switcher is combined with other components, some of which will be shown here.",
+    "snippet": "<!-- This is the nav containing the toggling elements -->\r\n<ul data-uk-switcher=\"{connect:'#my-id-one, #my-id-two'}\">\r\n    <li><a href=\"\">...<\/a><\/li>\r\n<\/ul>\r\n\r\n<!-- These are the containers of the content items -->\r\n<ul id=\"my-id-one\" class=\"uk-switcher\">\r\n    <li>...<\/li>\r\n<\/ul>\r\n\r\n<ul id=\"my-id-two\" class=\"uk-switcher\">\r\n    <li>...<\/li>\r\n<\/ul>",
+    "url": "http:\/\/getuikit.com\/docs\/switcher.html",
+    "type": "JavaScript",
+    "library": "Uikit v2",
+    "created": "2015-06-01 20:04:53",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

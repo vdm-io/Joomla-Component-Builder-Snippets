@@ -1,0 +1,16 @@
+{
+    "name": "Switcher button-group",
+    "heading": "Dynamically transition through different content panes.",
+    "description": "The switcher can also be applied to buttons or button groups from the Button component. Just add the switcher data attribute to a  element around a group of buttons or to the element with the .button-group class.",
+    "usage": "The switcher component consists of a number of toggles and their related content items. Add the data-uk-switcher=\"{connect:'#ID'}\" attribute to the element which contains the toggles, targetting the same id as is used on the element containing the content items. Add the .uk-switcher class to the same element. Typically the switcher is combined with other components, some of which will be shown here.",
+    "snippet": "<!-- This is the button group containing the toggling buttons -->\r\n<div class=\"uk-button-group\" data-uk-switcher=\"{connect:'#my-id'}\">\r\n    <button class=\"uk-button\" type=\"button\">...<\/button>\r\n<\/div>\r\n\r\n<!-- This is the container of the content items -->\r\n<ul id=\"my-id\" class=\"uk-switcher uk-margin\">...<\/ul>",
+    "url": "http:\/\/getuikit.com\/docs\/switcher.html",
+    "type": "JavaScript",
+    "library": "Uikit v2",
+    "created": "2015-06-01 20:10:00",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

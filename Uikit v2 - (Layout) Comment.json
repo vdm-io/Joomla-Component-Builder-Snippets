@@ -1,0 +1,16 @@
+{
+    "name": "Comment",
+    "heading": "Create comments, for example about articles.",
+    "description": "",
+    "usage": "The Comment component consists of a comment header, including an avatar, a title and meta data, and a comment body.",
+    "snippet": "<article class=\"uk-comment\">\r\n    <header class=\"uk-comment-header\">\r\n        <img class=\"uk-comment-avatar\" src=\"{imageurl}\" alt=\"\">\r\n        <h4 class=\"uk-comment-title\">{title}<\/h4>\r\n        <div class=\"uk-comment-meta\">{meta}<\/div>\r\n    <\/header>\r\n    <div class=\"uk-comment-body\">{title}<\/div>\r\n<\/article>",
+    "url": "http:\/\/getuikit.com\/docs\/comment.html",
+    "type": "Layout",
+    "library": "Uikit v2",
+    "created": "2015-05-19 20:13:53",
+    "modified": "2017-11-11 22:09:27",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}
