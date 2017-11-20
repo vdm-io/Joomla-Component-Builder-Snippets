@@ -1,0 +1,16 @@
+{
+    "name": "Accordion",
+    "heading": "Create a list of items that can be shown individually by clicking an item's header.",
+    "description": "",
+    "usage": "The Accordion component consists of a parent container with the uk-accordion attribute, and a title and content part for each accordion item.\r\n\r\n.uk-accordion-title -  Defines and styles the toggle for each accordion item. Typically used on a heading.\r\n\r\n.uk-accordion-content - Defines the content part for each accordion item.\r\n\r\n",
+    "snippet": "<ul uk-accordion>\r\n    <li class=\"uk-open\">\r\n        <h3 class=\"uk-accordion-title\">Item 1<\/h3>\r\n        <div class=\"uk-accordion-content\">\r\n            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>\r\n        <\/div>\r\n    <\/li>\r\n    <li>\r\n        <h3 class=\"uk-accordion-title\">Item 2<\/h3>\r\n        <div class=\"uk-accordion-content\">\r\n            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor reprehenderit.<\/p>\r\n        <\/div>\r\n    <\/li>\r\n    <li>\r\n        <h3 class=\"uk-accordion-title\">Item 3<\/h3>\r\n        <div class=\"uk-accordion-content\">\r\n            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat proident.<\/p>\r\n        <\/div>\r\n    <\/li>\r\n<\/ul>",
+    "url": "https:\/\/getuikit.com\/docs\/accordion",
+    "type": "Collapse",
+    "library": "Uikit v3",
+    "created": "2017-11-20 17:21:09",
+    "modified": "2017-11-20 23:41:14",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}
