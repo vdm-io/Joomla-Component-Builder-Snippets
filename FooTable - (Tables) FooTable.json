@@ -1,0 +1,16 @@
+{
+    "name": "FooTable",
+    "heading": "FooTable",
+    "description": "FooTable is a jQuery plugin that aims to make HTML tables on smaller devices look awesome \u2013 No matter how many columns of data you may have in them.\r\n\r\nHave you ever wanted to show a lot of data in a table, but hate how badly it scales on smaller mobile devices? The FooTable jQuery plugin solves this problem by allowing you to hide certain columns on smaller devices, but still allowing the user to expand each row to see the columns that were hidden.",
+    "usage": "",
+    "snippet": "<table class=\"footable metro-blue\" data-filter=\"#filter\" data-page-size=\"5\">\r\n  <thead>\r\n    <tr>\r\n      <th data-toggle=\"true\">Name<\/th>\r\n      <th data-hide=\"phone,tablet\">Phone<\/th>\r\n      <th data-hide=\"phone,tablet\">Email<\/th>\r\n    <\/tr>\r\n  <\/thead>\r\n  <tbody>\r\n    <tr>\r\n      <td>Bob Man<\/td>\r\n      <td>555-12345<\/td>\r\n      <td>bob@home.com<\/td>\r\n    <\/tr>\r\n    <tr>\r\n      <td>Bridget Jones<\/td>\r\n      <td>544-776655<\/td>\r\n      <td>bjones@mysite.com<\/td>\r\n    <\/tr>\r\n    <tr>\r\n      <td>Tom Jones<\/td>\r\n      <td>555-99911<\/td>\r\n      <td>cruise1@crazy.com<\/td>\r\n    <\/tr>\r\n  <\/tbody>\r\n<\/table>",
+    "url": "http:\/\/fooplugins.com\/footable-demos\/",
+    "type": "Tables",
+    "library": "FooTable",
+    "created": "2015-09-26 14:07:03",
+    "modified": "2017-11-20 23:38:24",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "Joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}
