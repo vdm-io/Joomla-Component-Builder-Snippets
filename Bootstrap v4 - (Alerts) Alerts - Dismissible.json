@@ -1,0 +1,16 @@
+{
+    "name": "Alerts - Dismissible",
+    "heading": "alert-dismissible",
+    "description": "Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages.",
+    "usage": "Alerts are available for any length of text, as well as an optional dismiss button. For proper styling, use one of the eight required contextual classes (e.g., .alert-success).",
+    "snippet": "<div class=\"alert alert-warning alert-dismissible fade show\" role=\"alert\">\r\n  <button type=\"button\" class=\"close\" data-dismiss=\"alert\" aria-label=\"Close\">\r\n    <span aria-hidden=\"true\">\u00d7<\/span>\r\n  <\/button>\r\n  <strong>Holy guacamole!<\/strong> You should check in on some of those fields below.\r\n<\/div>\r\n",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/alerts\/",
+    "type": "Alerts",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-11 23:50:04",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

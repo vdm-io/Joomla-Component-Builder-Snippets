@@ -1,0 +1,16 @@
+{
+    "name": "List Group - With Badges",
+    "heading": "list-group with badges",
+    "description": "List groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.",
+    "usage": "Add badges to any list group item to show unread counts, activity, and more with the help of some utilities.",
+    "snippet": "\"<ul class=\"\"list-group\"\">\r\n  <li class=\"\"list-group-item d-flex justify-content-between align-items-center\"\">\r\n    Cras justo odio\r\n    <span class=\"\"badge badge-primary badge-pill\"\">14<\/span>\r\n  <\/li>\r\n  <li class=\"\"list-group-item d-flex justify-content-between align-items-center\"\">\r\n    Dapibus ac facilisis in\r\n    <span class=\"\"badge badge-primary badge-pill\"\">2<\/span>\r\n  <\/li>\r\n  <li class=\"\"list-group-item d-flex justify-content-between align-items-center\"\">\r\n    Morbi leo risus\r\n    <span class=\"\"badge badge-primary badge-pill\"\">1<\/span>\r\n  <\/li>\r\n<\/ul>\r\n\"\r\n",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/list-group\/",
+    "type": "List Group",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-18 22:16:20",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

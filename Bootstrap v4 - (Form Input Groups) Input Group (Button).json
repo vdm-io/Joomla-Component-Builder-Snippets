@@ -1,0 +1,16 @@
+{
+    "name": "Input Group (Button)",
+    "heading": "input-group-btn",
+    "description": "Easily extend form controls by adding text, buttons, or button groups on either side of textual inputs.",
+    "usage": "Buttons in input groups must wrapped in a .input-group-btn for proper alignment and sizing. This is required due to default browser styles that cannot be overridden.",
+    "snippet": "\"<div class=\"\"input-group\"\">\r\n  <span class=\"\"input-group-btn\"\">\r\n    <button class=\"\"btn btn-danger\"\" type=\"\"button\"\">Hate it<\/button>\r\n  <\/span>\r\n  <input type=\"\"text\"\" class=\"\"form-control\"\" placeholder=\"\"Product name\"\">\r\n  <span class=\"\"input-group-btn\"\">\r\n    <button class=\"\"btn btn-success\"\" type=\"\"button\"\">Love it<\/button>\r\n  <\/span>\r\n<\/div>\r\n\"\r\n",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/input-group\/",
+    "type": "Form Input Groups",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-18 21:53:22",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

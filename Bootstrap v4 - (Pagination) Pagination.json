@@ -1,0 +1,16 @@
+{
+    "name": "Pagination",
+    "heading": "pagination",
+    "description": "Documentation and examples for showing pagination to indicate a series of related content exists across multiple pages.",
+    "usage": "We use a large block of connected links for our pagination, making links hard to miss and easily scalable\u2014all while providing large hit areas. Pagination is built with list HTML elements so screen readers can announce the number of available links. Use a wrapping  element to identify it as a navigation section to screen readers and other assistive technologies.\r\n\r\nIn addition, as pages likely have more than one such navigation section, it\u2019s advisable to provide a descriptive aria-label for the  to reflect its purpose. For example, if the pagination component is used to navigate between a set of search results, an appropriate label could be aria-label=\"Search results pages\".",
+    "snippet": "\"<nav aria-label=\"\"Page navigation example\"\">\r\n  <ul class=\"\"pagination\"\">\r\n    <li class=\"\"page-item\"\">\r\n      <a class=\"\"page-link\"\" href=\"\"#!\"\" aria-label=\"\"Previous\"\">\r\n        <span aria-hidden=\"\"true\"\">\u00ab<\/span>\r\n        <span class=\"\"sr-only\"\">Previous<\/span>\r\n      <\/a>\r\n    <\/li>\r\n    <li class=\"\"page-item\"\"><a class=\"\"page-link\"\" href=\"\"#!\"\">1<\/a><\/li>\r\n    <li class=\"\"page-item\"\"><a class=\"\"page-link\"\" href=\"\"#!\"\">2<\/a><\/li>\r\n    <li class=\"\"page-item\"\"><a class=\"\"page-link\"\" href=\"\"#!\"\">3<\/a><\/li>\r\n    <li class=\"\"page-item\"\">\r\n      <a class=\"\"page-link\"\" href=\"\"#!\"\" aria-label=\"\"Next\"\">\r\n        <span aria-hidden=\"\"true\"\">\u00bb<\/span>\r\n        <span class=\"\"sr-only\"\">Next<\/span>\r\n      <\/a>\r\n    <\/li>\r\n  <\/ul>\r\n<\/nav>\r\n\"\r\n",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/pagination\/",
+    "type": "Pagination",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-18 22:43:23",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

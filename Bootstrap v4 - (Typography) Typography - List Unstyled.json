@@ -1,0 +1,16 @@
+{
+    "name": "Typography - List Unstyled",
+    "heading": "list-unstyled",
+    "description": "Documentation and examples for Bootstrap typography, including global settings, headings, body text, lists, and more.",
+    "usage": "Remove the default list-style and left margin on list items (immediate children only). This only applies to immediate children list items, meaning you will need to add the class for any nested lists as well.",
+    "snippet": "\"<ul class=\"\"list-unstyled\"\">\r\n  <li>Integer molestie lorem at massa<\/li>\r\n  <li>Facilisis in pretium nisl aliquet<\/li>\r\n  <li>Nulla volutpat aliquam velit\r\n    <ul>\r\n      <li>Phasellus iaculis neque<\/li>\r\n      <li>Purus sodales ultricies<\/li>\r\n    <\/ul>\r\n  <\/li>\r\n  <li>Faucibus porta lacus fringilla vel<\/li>\r\n  <li>Eget porttitor lorem<\/li>\r\n<\/ul>\r\n\"\r\n",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/content\/typography\/",
+    "type": "Typography",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-19 00:28:42",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

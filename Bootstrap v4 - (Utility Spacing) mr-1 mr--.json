@@ -1,0 +1,16 @@
+{
+    "name": "mr-1 \/ mr-*-#",
+    "heading": "mr-1 \/ mr-*-#",
+    "description": "Bootstrap includes a wide range of shorthand responsive margin and padding utility classes to modify an element's appearance.",
+    "usage": "",
+    "snippet": "\"<div class=\"\"mr-0 bg-primary d-inline-block\"\">Spaced Div<\/div>\r\n<div class=\"\"mr-1 bg-primary d-inline-block\"\">Spaced Div<\/div>\r\n<div class=\"\"mr-2 bg-primary d-inline-block\"\">Spaced Div<\/div>\r\n<div class=\"\"mr-3 bg-primary d-inline-block\"\">Spaced Div<\/div>\r\n<div class=\"\"mr-4 bg-primary d-inline-block\"\">Spaced Div<\/div>\r\n<div class=\"\"mr-5 bg-primary d-inline-block\"\">Spaced Div<\/div>\r\n\r\n<!-- respsonsive viariations -->\r\n<div class=\"\"mr-sm-5 d-inline-block bg-primary\"\">Spaced Div<\/div>\r\n<div class=\"\"mr-md-5 d-inline-block bg-primary\"\">Spaced Div<\/div>\r\n<div class=\"\"mr-lg-5 d-inline-block bg-primary\"\">Spaced Div<\/div>\r\n<div class=\"\"mr-xl-5 d-inline-block bg-primary\"\">Spaced Div<\/div>\r\n\"\r\n",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/spacing\/",
+    "type": "Utility: Spacing",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-19 01:26:57",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Card - Header - H*",
+    "heading": "h*.card-header",
+    "description": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+    "usage": "Add an optional header and\/or footer within a card.",
+    "snippet": "\"<div class=\"\"card\"\">\r\n  <h3 class=\"\"card-header\"\">Featured<\/h3>\r\n  <div class=\"\"card-body\"\">\r\n    <h4 class=\"\"card-title\"\">Special title treatment<\/h4>\r\n    <p class=\"\"card-text\"\">With supporting text below as a natural lead-in to additional content.<\/p>\r\n    <a href=\"\"#!\"\" class=\"\"btn btn-primary\"\">Go somewhere<\/a>\r\n  <\/div>\r\n<\/div>\r\n\"\r\n",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/card\/",
+    "type": "Cards",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-14 01:23:57",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Navbar - Expand",
+    "heading": "navbar-expand-*",
+    "description": "Documentation and examples for Bootstrap's powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.",
+    "usage": "When the container is within your navbar, its horizontal padding is removed at breakpoints lower than your specified .navbar-expand{-sm|-md|-lg|-xl} class. This ensures we\u2019re not doubling up on padding unnecessarily on lower viewports when your navbar is collapsed.",
+    "snippet": "\"<nav class=\"\"navbar navbar-expand-lg navbar-light bg-light\"\">\r\n  <button class=\"\"navbar-toggler navbar-toggler-right\"\" type=\"\"button\"\" data-toggle=\"\"collapse\"\" data-target=\"\"#navbarTogglerDemo02\"\" aria-controls=\"\"navbarTogglerDemo02\"\" aria-expanded=\"\"false\"\" aria-label=\"\"Toggle navigation\"\">\r\n    <span class=\"\"navbar-toggler-icon\"\"><\/span>\r\n  <\/button>\r\n  <a class=\"\"navbar-brand\"\" href=\"\"#!\"\">Navbar<\/a>\r\n\r\n  <div class=\"\"collapse navbar-collapse\"\" id=\"\"navbarTogglerDemo02\"\">\r\n    <ul class=\"\"navbar-nav mr-auto mt-2 mt-md-0\"\">\r\n      <li class=\"\"nav-item active\"\">\r\n        <a class=\"\"nav-link\"\" href=\"\"#!\"\">Home <span class=\"\"sr-only\"\">(current)<\/span><\/a>\r\n      <\/li>\r\n      <li class=\"\"nav-item\"\">\r\n        <a class=\"\"nav-link\"\" href=\"\"#!\"\">Link<\/a>\r\n      <\/li>\r\n    <\/ul>\r\n  <\/div>\r\n<\/nav>\r\n\"\r\n",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/navbar\/",
+    "type": "Navbar",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-18 22:40:36",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

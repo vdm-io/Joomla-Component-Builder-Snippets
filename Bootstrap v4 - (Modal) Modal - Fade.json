@@ -1,0 +1,16 @@
+{
+    "name": "Modal - Fade",
+    "heading": "modal fade",
+    "description": "Use Bootstrap's JavaScript modal plugin to add dialogs to your site for lightboxes, user notifications, or completely custom content.",
+    "usage": "",
+    "snippet": "\"<!-- Button trigger modal -->\r\n<button type=\"\"button\"\" class=\"\"btn btn-primary\"\" data-toggle=\"\"modal\"\" data-target=\"\"#exampleModal3\"\">\r\n  Launch demo modal\r\n<\/button>\r\n\r\n<!-- Modal -->\r\n<div class=\"\"modal fade\"\" id=\"\"exampleModal3\"\" tabindex=\"\"-1\"\" role=\"\"dialog\"\" aria-labelledby=\"\"exampleModal3Label\"\" aria-hidden=\"\"true\"\">\r\n  <div class=\"\"modal-dialog\"\" role=\"\"document\"\">\r\n    <div class=\"\"modal-content\"\">\r\n      <div class=\"\"modal-header\"\">\r\n        <h5 class=\"\"modal-title\"\" id=\"\"exampleModal3Label\"\">Modal title<\/h5>\r\n        <button type=\"\"button\"\" class=\"\"close\"\" data-dismiss=\"\"modal\"\" aria-label=\"\"Close\"\">\r\n          <span aria-hidden=\"\"true\"\">\u00d7<\/span>\r\n        <\/button>\r\n      <\/div>\r\n      <div class=\"\"modal-body\"\">\r\n        ...\r\n      <\/div>\r\n      <div class=\"\"modal-footer\"\">\r\n        <button type=\"\"button\"\" class=\"\"btn btn-secondary\"\" data-dismiss=\"\"modal\"\">Close<\/button>\r\n        <button type=\"\"button\"\" class=\"\"btn btn-primary\"\">Save changes<\/button>\r\n      <\/div>\r\n    <\/div>\r\n  <\/div>\r\n<\/div>\r\n\"\r\n",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/modal\/",
+    "type": "Modal",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-18 22:22:41",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

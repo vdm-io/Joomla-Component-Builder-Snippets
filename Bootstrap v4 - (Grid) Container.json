@@ -1,0 +1,16 @@
+{
+    "name": "Container",
+    "heading": "container",
+    "description": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+    "usage": "The above example creates three equal-width columns on small, medium, large, and extra large devices using our predefined grid classes. Those columns are centered in the page with the parent .container.\r\n\r\nBreaking it down, here\u2019s how it works:\r\n\r\n    Containers provide a means to center and horizontally pad your site\u2019s contents. Use .container for a responsive pixel width or .container-fluid for width: 100% across all viewport and device sizes.\r\n    Rows are wrappers for columns. Each column has horizontal padding (called a gutter) for controlling the space between them. This padding is then counteracted on the rows with negative margins. This way, all the content in your columns is visually aligned down the left side.\r\n    In a grid layout, content must be placed within columns and only columns may be immediate children of rows.\r\n    Thanks to flexbox, grid columns without a specified width will automatically layout as equal width columns. For example, four instances of .col-sm will each automatically be 25% wide from the small breakpoint and up. See the auto-layout columns section for more examples.\r\n    Column classes indicate the number of columns you\u2019d like to use out of the possible 12 per row. So, if you want three equal-width columns across, you can use .col-4.\r\n    Column widths are set in percentages, so they\u2019re always fluid and sized relative to their parent element.\r\n    Columns have horizontal padding to create the gutters between individual columns, however, you can remove the margin from rows and padding from columns with .no-gutters on the .row.\r\n    To make the grid responsive, there are five grid breakpoints, one for each responsive breakpoint: all breakpoints (extra small), small, medium, large, and extra large.\r\n    Grid breakpoints are based on minimum width media queries, meaning they apply to that one breakpoint and all those above it (e.g., .col-sm-4 applies to small, medium, large, and extra large devices, but not the first xs breakpoint).\r\n    You can use predefined grid classes (like .col-4) or Sass mixins for more semantic markup.\r\n\r\nBe aware of the limitations and bugs around flexbox, like the inability to use some HTML elements as flex containers.",
+    "snippet": "<div class=\"container\">\r\n  <div class=\"row\">\r\n    <div class=\"col-sm\">\r\n      One of three columns\r\n    <\/div>\r\n    <div class=\"col-sm\">\r\n      One of three columns\r\n    <\/div>\r\n    <div class=\"col-sm\">\r\n      One of three columns\r\n    <\/div>\r\n  <\/div>\r\n<\/div>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/layout\/grid\/",
+    "type": "Grid",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-18 22:02:05",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

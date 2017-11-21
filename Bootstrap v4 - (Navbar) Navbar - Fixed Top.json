@@ -1,0 +1,16 @@
+{
+    "name": "Navbar - Fixed Top",
+    "heading": "navbar fixed-top",
+    "description": "Documentation and examples for Bootstrap's powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.",
+    "usage": "Use our position utilities to place navbars in non-static positions. Choose from fixed to the top, fixed to the bottom, or stickied to the top (scrolls with the page until it reaches the top, then stays there). Fixed navbars use position: fixed, meaning they\u2019re pulled from the normal flow of the DOM and may require custom CSS (e.g., padding-top on the ) to prevent overlap with other elements.\r\n\r\nAlso note that .sticky-top uses position: sticky, which isn\u2019t fully supported in every browser.",
+    "snippet": "\"<nav class=\"\"navbar fixed-top navbar-dark bg-primary\"\">\r\n  <a class=\"\"navbar-brand\"\" href=\"\"#!\"\">Fixed top<\/a>\r\n<\/nav>\r\n\"\r\n",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/navbar\/",
+    "type": "Navbar",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-18 22:40:25",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

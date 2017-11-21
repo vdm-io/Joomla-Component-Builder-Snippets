@@ -1,0 +1,16 @@
+{
+    "name": "Disabled Items",
+    "heading": "disabled items",
+    "description": "Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.",
+    "usage": "Add the disabled boolean attribute on an input to prevent user interactions and make it appear lighter.",
+    "snippet": "\"<form>\r\n  <fieldset disabled=\"\"\"\">\r\n    <div class=\"\"form-group\"\">\r\n      <label for=\"\"disabledTextInput\"\">Disabled input<\/label>\r\n      <input type=\"\"text\"\" id=\"\"disabledTextInput\"\" class=\"\"form-control\"\" placeholder=\"\"Disabled input\"\">\r\n    <\/div>\r\n    <div class=\"\"form-group\"\">\r\n      <label for=\"\"disabledSelect\"\">Disabled select menu<\/label>\r\n      <select id=\"\"disabledSelect\"\" class=\"\"form-control\"\">\r\n        <option>Disabled select<\/option>\r\n      <\/select>\r\n    <\/div>\r\n    <div class=\"\"form-check\"\">\r\n      <label class=\"\"form-check-label\"\">\r\n        <input class=\"\"form-check-input\"\" type=\"\"radio\"\" name=\"\"exampleRadios\"\" id=\"\"exampleRadios4\"\" value=\"\"option3\"\" disabled=\"\"\"\">\r\n        Option three is disabled\r\n      <\/label>\r\n    <\/div>\r\n    <div class=\"\"form-check\"\">\r\n      <label class=\"\"form-check-label\"\">\r\n        <input class=\"\"form-check-input\"\" type=\"\"checkbox\"\" value=\"\"\"\" disabled=\"\"\"\">\r\n        Option two is disabled\r\n      <\/label>\r\n    <\/div>\r\n    <button type=\"\"submit\"\" class=\"\"btn btn-primary\"\">Submit<\/button>\r\n  <\/fieldset>\r\n<\/form>\r\n\"\r\n",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/forms\/",
+    "type": "Forms",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-18 21:47:52",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}
