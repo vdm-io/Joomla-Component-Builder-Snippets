@@ -1,0 +1,16 @@
+{
+    "name": "align-self-*-center",
+    "heading": "align-self-*-center",
+    "description": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+    "usage": "",
+    "snippet": "\"<div class=\"\"align-self-center\"\">Aligned flex item<\/div>\r\n\r\n<!-- responsive variations -->\r\n<div class=\"\"align-self-sm-center\"\">Aligned flex item<\/div>\r\n<div class=\"\"align-self-md-center\"\">Aligned flex item<\/div>\r\n<div class=\"\"align-self-lg-center\"\">Aligned flex item<\/div>\r\n<div class=\"\"align-self-xl-center\"\">Aligned flex item<\/div>\r\n\"\r\n",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/flex\/",
+    "type": "Utility: Flexbox",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-19 01:23:00",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

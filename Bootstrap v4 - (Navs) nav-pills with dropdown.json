@@ -1,0 +1,16 @@
+{
+    "name": "nav-pills with dropdown",
+    "heading": "nav-pills with dropdown",
+    "description": "Documentation and examples for how to use Bootstrap's included navigation components.",
+    "usage": "Pills with dropdowns",
+    "snippet": "\"<ul class=\"\"nav nav-pills\"\">\r\n  <li class=\"\"nav-item\"\">\r\n    <a class=\"\"nav-link active\"\" href=\"\"#!\"\">Active<\/a>\r\n  <\/li>\r\n  <li class=\"\"nav-item dropdown\"\">\r\n    <a class=\"\"nav-link dropdown-toggle\"\" data-toggle=\"\"dropdown\"\" href=\"\"#!\"\" role=\"\"button\"\" aria-haspopup=\"\"true\"\" aria-expanded=\"\"false\"\">Dropdown<\/a>\r\n    <div class=\"\"dropdown-menu\"\">\r\n      <a class=\"\"dropdown-item\"\" href=\"\"#!\"\">Action<\/a>\r\n      <a class=\"\"dropdown-item\"\" href=\"\"#!\"\">Another action<\/a>\r\n    <\/div>\r\n  <\/li>\r\n<\/ul>\r\n\"\r\n",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/navs\/",
+    "type": "Navs",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-18 22:29:52",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

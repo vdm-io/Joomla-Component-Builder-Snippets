@@ -1,0 +1,16 @@
+{
+    "name": "Border - Success",
+    "heading": "border-success",
+    "description": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+    "usage": "Change the border color using utilities built on our theme colors.",
+    "snippet": "<span class=\"border border-success\">Hello World<\/span>\r\n",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/borders\/",
+    "type": "Utility: Borders",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-19 01:02:00",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

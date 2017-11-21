@@ -1,0 +1,16 @@
+{
+    "name": "Table - Success",
+    "heading": "table-success",
+    "description": "Documentation and examples for opt-in styling of tables (given their prevelant use in JavaScript plugins) with Bootstrap.",
+    "usage": "Use contextual classes to color table rows or individual cells.",
+    "snippet": "\"<table class=\"\"table\"\">\r\n  <thead>\r\n    <tr>\r\n      <th>#<\/th>\r\n      <th>First Name<\/th>\r\n      <th>Last Name<\/th>\r\n    <\/tr>\r\n  <\/thead>\r\n  <tbody>\r\n    <tr class=\"\"table-success\"\">\r\n      <th scope=\"\"row\"\">1<\/th>\r\n      <td>Mark<\/td>\r\n      <td>Otto<\/td>\r\n    <\/tr>\r\n    <tr>\r\n      <th scope=\"\"row\"\">2<\/th>\r\n      <td>Jacob<\/td>\r\n      <td>Thornton<\/td>\r\n    <\/tr>\r\n  <\/tbody>\r\n<\/table>\r\n\"\r\n",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/content\/tables\/",
+    "type": "Tables",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-19 00:17:19",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

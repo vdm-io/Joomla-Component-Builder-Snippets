@@ -1,0 +1,16 @@
+{
+    "name": "px-1 \/ px-*-#",
+    "heading": "px-1 \/ px-*-#",
+    "description": "Bootstrap includes a wide range of shorthand responsive margin and padding utility classes to modify an element's appearance.",
+    "usage": "",
+    "snippet": "\"<div class=\"\"px-0 bg-primary d-inline-block\"\">Padded Div<\/div>\r\n<div class=\"\"px-1 bg-primary d-inline-block\"\">Padded Div<\/div>\r\n<div class=\"\"px-2 bg-primary d-inline-block\"\">Padded Div<\/div>\r\n<div class=\"\"px-3 bg-primary d-inline-block\"\">Padded Div<\/div>\r\n<div class=\"\"px-4 bg-primary d-inline-block\"\">Padded Div<\/div>\r\n<div class=\"\"px-5 bg-primary d-inline-block\"\">Padded Div<\/div>\r\n\r\n<!-- respsonsive viariations -->\r\n<div class=\"\"px-sm-5 d-inline-block bg-primary\"\">Padded Div<\/div>\r\n<div class=\"\"px-md-5 d-inline-block bg-primary\"\">Padded Div<\/div>\r\n<div class=\"\"px-lg-5 d-inline-block bg-primary\"\">Padded Div<\/div>\r\n<div class=\"\"px-xl-5 d-inline-block bg-primary\"\">Padded Div<\/div>\r\n\"\r\n",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/spacing\/",
+    "type": "Utility: Spacing",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-19 01:27:32",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

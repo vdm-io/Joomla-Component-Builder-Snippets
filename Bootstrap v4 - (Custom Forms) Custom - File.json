@@ -1,0 +1,16 @@
+{
+    "name": "Custom - File",
+    "heading": "custom-file",
+    "description": "For even more customization and cross browser consistency, use our completely custom form elements to replace the browser defaults. They\u2019re built on top of semantic and accessible markup, so they\u2019re solid replacements for any default form control.",
+    "usage": "The file input is the most gnarly of the bunch and require additional JavaScript if you\u2019d like to hook them up with functional Choose file\u2026 and selected file name text.\r\n",
+    "snippet": "\"<label class=\"\"custom-file\"\">\r\n  <input type=\"\"file\"\" id=\"\"file\"\" class=\"\"custom-file-input\"\">\r\n  <span class=\"\"custom-file-control\"\"><\/span>\r\n<\/label>\r\n\"\r\n",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/forms\/#custom-forms",
+    "type": "Custom Forms",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-18 21:58:20",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

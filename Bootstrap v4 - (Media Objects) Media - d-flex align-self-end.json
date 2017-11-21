@@ -1,0 +1,16 @@
+{
+    "name": "Media - d-flex align-self-end",
+    "heading": "d-flex align-self-end",
+    "description": "Documentation and examples for Bootstrap's media object to construct highly repetitive components like blog comments, tweets, and the like.",
+    "usage": "",
+    "snippet": "\"<div class=\"\"media\"\">\r\n  <img class=\"\"d-flex align-self-end mr-3\"\" src=\"\"\/images\/pathToYourImage.png\"\" alt=\"\"Generic placeholder image\"\">\r\n  <div class=\"\"media-body\"\">\r\n    <h5 class=\"\"mt-0\"\">Bottom-aligned media<\/h5>\r\n    <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.<\/p>\r\n    <p class=\"\"mb-0\"\">Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.<\/p>\r\n  <\/div>\r\n<\/div>\r\n\"\r\n",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/layout\/media-object\/",
+    "type": "Media Objects",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-18 22:20:14",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

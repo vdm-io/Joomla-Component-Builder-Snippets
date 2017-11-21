@@ -1,0 +1,16 @@
+{
+    "name": "form-group",
+    "heading": "form-group",
+    "description": "Bootstrap\u2019s form controls expand on our Rebooted form styles with classes. Use these classes to opt into their customized displays for a more consistent rendering across browsers and devices.\r\n\r\nBe sure to use an appropriate type attribute on all inputs (e.g., email for email address or number for numerical information) to take advantage of newer input controls like email verification, number selection, and more.",
+    "usage": "The .form-group class is the easiest way to add some structure to forms. Its only purpose is to provide margin-bottom around a label and control pairing. As a bonus, since it\u2019s a class you can use it with s, s, or nearly any other element.",
+    "snippet": "\"<form>\r\n  <div class=\"\"form-group\"\">\r\n    <label for=\"\"formGroupExampleInput\"\">Example label<\/label>\r\n    <input type=\"\"text\"\" class=\"\"form-control\"\" id=\"\"formGroupExampleInput\"\" placeholder=\"\"Example input\"\">\r\n  <\/div>\r\n  <div class=\"\"form-group\"\">\r\n    <label for=\"\"formGroupExampleInput2\"\">Another label<\/label>\r\n    <input type=\"\"text\"\" class=\"\"form-control\"\" id=\"\"formGroupExampleInput2\"\" placeholder=\"\"Another input\"\">\r\n  <\/div>\r\n<\/form>\r\n\"\r\n",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/forms\/",
+    "type": "Forms",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-14 20:51:50",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

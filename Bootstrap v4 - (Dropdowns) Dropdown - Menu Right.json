@@ -1,0 +1,16 @@
+{
+    "name": "Dropdown - Menu Right",
+    "heading": "dropdown-menu-right",
+    "description": "Dropdowns are toggleable, contextual overlays for displaying lists of links and more. They\u2019re made interactive with the included Bootstrap dropdown JavaScript plugin. They\u2019re toggled by clicking, not by hovering; this is an intentional design decision.\r\n\r\nDropdowns are built on a third party library, Popper.js, which provides dynamic positioning and viewport detection. Be sure to include popper.min.js before Bootstrap\u2019s JavaScript or use bootstrap.bundle.min.js \/ bootstrap.bundle.js which contains Popper.js.",
+    "usage": "By default, a dropdown menu is automatically positioned 100% from the top and along the left side of its parent. Add .dropdown-menu-right to a .dropdown-menu to right align the dropdown menu.",
+    "snippet": "\"<div class=\"\"btn-group\"\">\r\n  <button type=\"\"button\"\" class=\"\"btn btn-secondary dropdown-toggle\"\" data-toggle=\"\"dropdown\"\" aria-haspopup=\"\"true\"\" aria-expanded=\"\"false\"\">\r\n    This dropdown's menu is right-aligned\r\n  <\/button>\r\n  <div class=\"\"dropdown-menu dropdown-menu-right\"\">\r\n    <button class=\"\"dropdown-item\"\" type=\"\"button\"\">Action<\/button>\r\n    <button class=\"\"dropdown-item\"\" type=\"\"button\"\">Another action<\/button>\r\n    <button class=\"\"dropdown-item\"\" type=\"\"button\"\">Something else here<\/button>\r\n  <\/div>\r\n<\/div>\r\n\"\r\n",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/dropdowns\/",
+    "type": "Dropdowns",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-14 01:38:35",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "List Group",
+    "heading": "list-group",
+    "description": "List groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.",
+    "usage": "The most basic list group is an unordered list with list items and the proper classes. Build upon it with the options that follow, or with your own CSS as needed.",
+    "snippet": "\"<ul class=\"\"list-group\"\">\r\n  <li class=\"\"list-group-item\"\">Morbi leo risus<\/li>\r\n  <li class=\"\"list-group-item\"\">Porta ac consectetur ac<\/li>\r\n  <li class=\"\"list-group-item\"\">Vestibulum at eros<\/li>\r\n<\/ul>\r\n\"\r\n",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/list-group\/",
+    "type": "List Group",
+    "library": "Bootstrap v4",
+    "created": "0000-00-00 00:00:00",
+    "modified": "2017-11-18 22:14:05",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}
