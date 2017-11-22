@@ -1,6 +1,6 @@
 {
     "name": "Button - Large",
-    "heading": "btn-lg\u00a0",
+    "heading": "btn-lg",
     "description": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
     "usage": "Fancy larger or smaller buttons? Add .btn-lg or .btn-sm for additional sizes.",
     "snippet": "<button type=\"button\" class=\"btn btn-primary btn-lg\">Large button<\/button>",

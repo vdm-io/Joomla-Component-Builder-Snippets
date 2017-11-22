@@ -1,6 +1,6 @@
 {
-    "name": "Button - Primary\u00a0",
-    "heading": "btn-primary\u00a0",
+    "name": "Button - Primary",
+    "heading": "btn-primary",
     "description": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
     "usage": "Bootstrap includes several predefined button styles, each serving its own semantic purpose, with a few extras thrown in for more control.",
     "snippet": "<button type=\"button\" class=\"btn btn-primary\">Primary<\/button>",

@@ -1,6 +1,6 @@
 {
     "name": "Button Group",
-    "heading": "btn-group\u00a0",
+    "heading": "btn-group",
     "description": "Group a series of buttons together on a single line with the button group, and super-power them with JavaScript.",
     "usage": "Wrap a series of buttons with .btn in .btn-group. Add on optional JavaScript radio and checkbox style behavior with our buttons plugin.",
     "snippet": "<div class=\"btn-group\" role=\"group\" aria-label=\"Basic example\">\r\n  <button type=\"button\" class=\"btn btn-secondary\">Left<\/button>\r\n  <button type=\"button\" class=\"btn btn-secondary\">Middle<\/button>\r\n  <button type=\"button\" class=\"btn btn-secondary\">Right<\/button>\r\n<\/div>",
