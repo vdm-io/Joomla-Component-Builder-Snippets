@@ -3,7 +3,7 @@
     "heading": "nav.nav",
     "description": "Documentation and examples for how to use Bootstrap's included navigation components.",
     "usage": "",
-    "snippet": "<nav class=\"nav\">\r\n  <a class=\"nav-link active\" href=\"#!\">Active<\/a>\r\n  <a class=\"nav-link\" href=\"#!\">Link<\/a>\r\n  <a class=\"nav-link disabled\" href=\"#!\">Disabled<\/a>\r\n<\/nav>",
+    "snippet": "<nav class=\"nav\">\r\n  <a class=\"nav-link active\" href=\"#\">Active<\/a>\r\n  <a class=\"nav-link\" href=\"#\">Link<\/a>\r\n  <a class=\"nav-link disabled\" href=\"#\">Disabled<\/a>\r\n<\/nav>",
     "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/navs\/",
     "type": "Navs",
     "library": "Bootstrap v4",

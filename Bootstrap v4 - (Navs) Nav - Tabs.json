@@ -3,7 +3,7 @@
     "heading": "nav-tabs",
     "description": "Documentation and examples for how to use Bootstrap's included navigation components.",
     "usage": "Takes the basic nav from above and adds the .nav-tabs class to generate a tabbed interface. Use them to create tabbable regions with our tab JavaScript plugin.",
-    "snippet": "<ul class=\"nav nav-tabs\">\r\n  <li class=\"nav-item\">\r\n    <a class=\"nav-link active\" href=\"#!\">Active<\/a>\r\n  <\/li>\r\n  <li class=\"nav-item\">\r\n    <a class=\"nav-link\" href=\"#!\">Link<\/a>\r\n  <\/li>\r\n  <li class=\"nav-item\">\r\n    <a class=\"nav-link\" href=\"#!\">Link<\/a>\r\n  <\/li>\r\n<\/ul>",
+    "snippet": "<ul class=\"nav nav-tabs\">\r\n  <li class=\"nav-item\">\r\n    <a class=\"nav-link active\" href=\"#\">Active<\/a>\r\n  <\/li>\r\n  <li class=\"nav-item\">\r\n    <a class=\"nav-link\" href=\"#\">Link<\/a>\r\n  <\/li>\r\n  <li class=\"nav-item\">\r\n    <a class=\"nav-link\" href=\"#\">Link<\/a>\r\n  <\/li>\r\n<\/ul>",
     "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/navs\/",
     "type": "Navs",
     "library": "Bootstrap v4",

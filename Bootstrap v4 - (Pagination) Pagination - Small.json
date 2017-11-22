@@ -3,7 +3,7 @@
     "heading": "pagination-sm",
     "description": "Documentation and examples for showing pagination to indicate a series of related content exists across multiple pages.",
     "usage": "Fancy larger or smaller pagination? Add .pagination-lg or .pagination-sm for additional sizes.",
-    "snippet": "<nav aria-label=\"...\">\r\n  <ul class=\"pagination pagination-sm\">\r\n    <li class=\"page-item disabled\">\r\n      <a class=\"page-link\" href=\"#!\" tabindex=\"-1\">Previous<\/a>\r\n    <\/li>\r\n    <li class=\"page-item\"><a class=\"page-link\" href=\"#!\">1<\/a><\/li>\r\n    <li class=\"page-item\"><a class=\"page-link\" href=\"#!\">2<\/a><\/li>\r\n    <li class=\"page-item\"><a class=\"page-link\" href=\"#!\">3<\/a><\/li>\r\n    <li class=\"page-item\">\r\n      <a class=\"page-link\" href=\"#!\">Next<\/a>\r\n    <\/li>\r\n  <\/ul>\r\n<\/nav>",
+    "snippet": "<nav aria-label=\"...\">\r\n  <ul class=\"pagination pagination-sm\">\r\n    <li class=\"page-item disabled\">\r\n      <a class=\"page-link\" href=\"#\" tabindex=\"-1\">Previous<\/a>\r\n    <\/li>\r\n    <li class=\"page-item\"><a class=\"page-link\" href=\"#\">1<\/a><\/li>\r\n    <li class=\"page-item\"><a class=\"page-link\" href=\"#\">2<\/a><\/li>\r\n    <li class=\"page-item\"><a class=\"page-link\" href=\"#\">3<\/a><\/li>\r\n    <li class=\"page-item\">\r\n      <a class=\"page-link\" href=\"#\">Next<\/a>\r\n    <\/li>\r\n  <\/ul>\r\n<\/nav>",
     "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/pagination\/",
     "type": "Pagination",
     "library": "Bootstrap v4",

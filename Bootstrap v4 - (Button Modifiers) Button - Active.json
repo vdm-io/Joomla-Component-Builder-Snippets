@@ -3,7 +3,7 @@
     "heading": "active button",
     "description": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.",
     "usage": "Fancy larger or smaller buttons? Add .btn-lg or .btn-sm for additional sizes.",
-    "snippet": "<a href=\"#!\" class=\"btn btn-primary btn-lg active\" role=\"button\" aria-pressed=\"true\">Primary link<\/a>",
+    "snippet": "<a href=\"#\" class=\"btn btn-primary btn-lg active\" role=\"button\" aria-pressed=\"true\">Primary link<\/a>",
     "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/buttons\/",
     "type": "Button Modifiers",
     "library": "Bootstrap v4",

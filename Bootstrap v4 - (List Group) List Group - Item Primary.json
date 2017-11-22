@@ -3,7 +3,7 @@
     "heading": "list-group-item-primary",
     "description": "List groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.",
     "usage": "Use contextual classes to style list items with a stateful background and color.",
-    "snippet": "<div class=\"list-group\">\r\n  <a href=\"#!\" class=\"list-group-item list-group-item-action list-group-item-primary\">Dapibus ac facilisis in<\/a>\r\n<\/div>",
+    "snippet": "<div class=\"list-group\">\r\n  <a href=\"#\" class=\"list-group-item list-group-item-action list-group-item-primary\">Dapibus ac facilisis in<\/a>\r\n<\/div>",
     "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/list-group\/",
     "type": "List Group",
     "library": "Bootstrap v4",

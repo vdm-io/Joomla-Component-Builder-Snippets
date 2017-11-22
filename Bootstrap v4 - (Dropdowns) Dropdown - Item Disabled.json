@@ -3,7 +3,7 @@
     "heading": "dropdown-item disabled",
     "description": "Dropdowns are toggleable, contextual overlays for displaying lists of links and more. They\u2019re made interactive with the included Bootstrap dropdown JavaScript plugin. They\u2019re toggled by clicking, not by hovering; this is an intentional design decision.\r\n\r\nDropdowns are built on a third party library, Popper.js, which provides dynamic positioning and viewport detection. Be sure to include popper.min.js before Bootstrap\u2019s JavaScript or use bootstrap.bundle.min.js \/ bootstrap.bundle.js which contains Popper.js.",
     "usage": "Add .disabled to items in the dropdown to style them as disabled.",
-    "snippet": "<div class=\"dropdown open\">\r\n  <button class=\"btn btn-secondary dropdown-toggle\" type=\"button\" id=\"dropdownMenu5\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n    Dropdown\r\n  <\/button>\r\n  <div class=\"dropdown-menu\">\r\n    <a class=\"dropdown-item\" href=\"#!\">Action<\/a>\r\n    <a class=\"dropdown-item disabled\" href=\"#!\">Disabled action<\/a>\r\n  <\/div>\r\n<\/div>",
+    "snippet": "<div class=\"dropdown open\">\r\n  <button class=\"btn btn-secondary dropdown-toggle\" type=\"button\" id=\"dropdownMenu5\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n    Dropdown\r\n  <\/button>\r\n  <div class=\"dropdown-menu\">\r\n    <a class=\"dropdown-item\" href=\"#\">Action<\/a>\r\n    <a class=\"dropdown-item disabled\" href=\"#\">Disabled action<\/a>\r\n  <\/div>\r\n<\/div>",
     "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/dropdowns\/",
     "type": "Dropdowns",
     "library": "Bootstrap v4",

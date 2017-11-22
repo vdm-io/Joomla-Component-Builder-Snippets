@@ -3,7 +3,7 @@
     "heading": "alert-link",
     "description": "Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages.",
     "usage": "Alerts are available for any length of text, as well as an optional dismiss button. For proper styling, use one of the eight required contextual classes (e.g., .alert-success).",
-    "snippet": "<div class=\"alert alert-danger\" role=\"alert\">\r\n  <strong>Oh snap!<\/strong>\r\n  <a href=\"#!\" class=\"alert-link\">Change a few things up<\/a>\r\n  and try submitting again.\r\n<\/div>",
+    "snippet": "<div class=\"alert alert-danger\" role=\"alert\">\r\n  <strong>Oh snap!<\/strong>\r\n  <a href=\"#\" class=\"alert-link\">Change a few things up<\/a>\r\n  and try submitting again.\r\n<\/div>",
     "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/alerts\/",
     "type": "Alerts",
     "library": "Bootstrap v4",

@@ -3,7 +3,7 @@
     "heading": "nav flex-column",
     "description": "Documentation and examples for how to use Bootstrap's included navigation components.",
     "usage": "Stack your navigation by changing the flex item direction with the .flex-column utility. Need to stack them on some viewports but not others? Use the responsive versions (e.g., .flex-sm-column).",
-    "snippet": "<nav class=\"nav flex-column\">\r\n  <a class=\"nav-link active\" href=\"#!\">Active<\/a>\r\n  <a class=\"nav-link\" href=\"#!\">Link<\/a>\r\n  <a class=\"nav-link\" href=\"#!\">Link<\/a>\r\n<\/nav>",
+    "snippet": "<nav class=\"nav flex-column\">\r\n  <a class=\"nav-link active\" href=\"#\">Active<\/a>\r\n  <a class=\"nav-link\" href=\"#\">Link<\/a>\r\n  <a class=\"nav-link\" href=\"#\">Link<\/a>\r\n<\/nav>",
     "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/navs\/",
     "type": "Navs",
     "library": "Bootstrap v4",

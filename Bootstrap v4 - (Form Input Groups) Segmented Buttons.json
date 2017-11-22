@@ -3,7 +3,7 @@
     "heading": "segmented buttons",
     "description": "Easily extend form controls by adding text, buttons, or button groups on either side of textual inputs.",
     "usage": "",
-    "snippet": "<div class=\"input-group\">\r\n  <div class=\"input-group-btn\">\r\n    <button type=\"button\" class=\"btn btn-secondary\">Action<\/button>\r\n    <button type=\"button\" class=\"btn btn-secondary dropdown-toggle dropdown-toggle-split\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n      <span class=\"sr-only\">Toggle Dropdown<\/span>\r\n    <\/button>\r\n    <div class=\"dropdown-menu\">\r\n      <a class=\"dropdown-item\" href=\"#!\">Action<\/a>\r\n      <a class=\"dropdown-item\" href=\"#!\">Another action<\/a>\r\n    <\/div>\r\n  <\/div>\r\n  <input type=\"text\" class=\"form-control\" aria-label=\"Text input with segmented button dropdown\">\r\n<\/div>",
+    "snippet": "<div class=\"input-group\">\r\n  <div class=\"input-group-btn\">\r\n    <button type=\"button\" class=\"btn btn-secondary\">Action<\/button>\r\n    <button type=\"button\" class=\"btn btn-secondary dropdown-toggle dropdown-toggle-split\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n      <span class=\"sr-only\">Toggle Dropdown<\/span>\r\n    <\/button>\r\n    <div class=\"dropdown-menu\">\r\n      <a class=\"dropdown-item\" href=\"#\">Action<\/a>\r\n      <a class=\"dropdown-item\" href=\"#\">Another action<\/a>\r\n    <\/div>\r\n  <\/div>\r\n  <input type=\"text\" class=\"form-control\" aria-label=\"Text input with segmented button dropdown\">\r\n<\/div>",
     "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/input-group\/",
     "type": "Form Input Groups",
     "library": "Bootstrap v4",

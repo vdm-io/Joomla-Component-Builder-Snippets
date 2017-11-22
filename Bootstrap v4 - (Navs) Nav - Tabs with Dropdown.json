@@ -3,7 +3,7 @@
     "heading": "nav-tabs with dropdown",
     "description": "Documentation and examples for how to use Bootstrap's included navigation components.",
     "usage": "Add dropdown menus with a little extra HTML and the dropdowns JavaScript plugin.",
-    "snippet": "<ul class=\"nav nav-tabs\">\r\n  <li class=\"nav-item\">\r\n    <a class=\"nav-link active\" href=\"#!\">Active<\/a>\r\n  <\/li>\r\n  <li class=\"nav-item dropdown\">\r\n    <a class=\"nav-link dropdown-toggle\" data-toggle=\"dropdown\" href=\"#!\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n       Dropdown<\/a>\r\n    <div class=\"dropdown-menu\">\r\n      <a class=\"dropdown-item\" href=\"#!\">Action<\/a>\r\n      <a class=\"dropdown-item\" href=\"#!\">Another action<\/a>\r\n    <\/div>\r\n  <\/li>\r\n<\/ul>",
+    "snippet": "<ul class=\"nav nav-tabs\">\r\n  <li class=\"nav-item\">\r\n    <a class=\"nav-link active\" href=\"#\">Active<\/a>\r\n  <\/li>\r\n  <li class=\"nav-item dropdown\">\r\n    <a class=\"nav-link dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">\r\n       Dropdown<\/a>\r\n    <div class=\"dropdown-menu\">\r\n      <a class=\"dropdown-item\" href=\"#\">Action<\/a>\r\n      <a class=\"dropdown-item\" href=\"#\">Another action<\/a>\r\n    <\/div>\r\n  <\/li>\r\n<\/ul>",
     "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/navs\/",
     "type": "Navs",
     "library": "Bootstrap v4",
