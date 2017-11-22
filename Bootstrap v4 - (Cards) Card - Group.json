@@ -1,0 +1,16 @@
+{
+    "name": "Card - Group",
+    "heading": "card-group",
+    "description": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+    "usage": "Use card groups to render cards as a single, attached element with equal width and height columns. Card groups use display: flex; to achieve their uniform sizing.",
+    "snippet": "<div class=\"card-group\">\r\n  <div class=\"card\">\r\n    <div class=\"card-body\">\r\n      <h4 class=\"card-title\">Card title<\/h4>\r\n      <p class=\"card-text\">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.<\/p>\r\n    <\/div>\r\n  <\/div>\r\n  <div class=\"card\">\r\n    <div class=\"card-body\">\r\n      <h4 class=\"card-title\">Card title<\/h4>\r\n      <p class=\"card-text\">This card has supporting text below as a natural lead-in to additional content.<\/p>\r\n    <\/div>\r\n  <\/div>\r\n  <div class=\"card\">\r\n    <div class=\"card-body\">\r\n      <h4 class=\"card-title\">Card title<\/h4>\r\n      <p class=\"card-text\">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.<\/p>\r\n    <\/div>\r\n  <\/div>\r\n<\/div>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/card\/",
+    "type": "Cards",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 00:42:30",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

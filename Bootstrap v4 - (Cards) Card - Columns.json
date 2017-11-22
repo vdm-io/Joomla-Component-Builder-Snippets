@@ -1,0 +1,16 @@
+{
+    "name": "Card - Columns",
+    "heading": "card-columns",
+    "description": "A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.\r\n\r\nIf you\u2019re familiar with Bootstrap 3, cards replace our old panels, wells, and thumbnails. Similar functionality to those components is available as modifier classes for cards.",
+    "usage": "Cards can be organized into Masonry-like columns with just CSS by wrapping them in .card-columns. Cards are built with CSS column properties instead of flexbox for easier alignment. Cards are ordered from top to bottom and left to right.\r\n\r\nHeads up! Your mileage with card columns may vary. To prevent cards breaking across columns, we must set them to display: inline-block as column-break-inside: avoid isn\u2019t a bulletproof solution yet.",
+    "snippet": "<div class=\"card-columns\">\r\n  <div class=\"card\">\r\n    <div class=\"card-body\">\r\n      <!-- Card content -->\r\n    <\/div>\r\n  <\/div>\r\n  <div class=\"card p-3\">\r\n    <!-- Card content -->\r\n  <\/div>\r\n  <div class=\"card\">\r\n    <div class=\"card-body\">\r\n      <!-- Card content -->\r\n    <\/div>\r\n  <\/div>\r\n  <div class=\"card bg-primary p-3 text-center\">\r\n      <!-- Card content -->\r\n  <\/div>\r\n<\/div>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/card\/",
+    "type": "Cards",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 00:42:52",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}
