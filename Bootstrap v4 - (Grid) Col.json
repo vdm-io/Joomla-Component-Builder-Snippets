@@ -1,0 +1,16 @@
+{
+    "name": "Col",
+    "heading": "col",
+    "description": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+    "usage": "While Bootstrap uses ems or rems for defining most sizes, pxs are used for grid breakpoints and container widths. This is because the viewport width is in pixels and does not change with the font size.\r\n\r\nSee how aspects of the Bootstrap grid system work across multiple devices with a handy table.",
+    "snippet": "<!-- Equal width cols, same on all screen sizes -->\r\n<div class=\"container\">\r\n  <div class=\"row\">\r\n    <div class=\"col\">\r\n      1 of 3\r\n    <\/div>\r\n    <div class=\"col\">\r\n      1 of 3\r\n    <\/div>\r\n    <div class=\"col\">\r\n      1 of 3\r\n    <\/div>\r\n  <\/div>\r\n<\/div>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/layout\/grid\/",
+    "type": "Grid",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 00:56:47",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

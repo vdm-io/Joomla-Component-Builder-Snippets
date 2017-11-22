@@ -1,0 +1,16 @@
+{
+    "name": "Nav - With Flex Utils",
+    "heading": "nav with flex utils",
+    "description": "Documentation and examples for how to use Bootstrap's included navigation components.",
+    "usage": "If you need responsive nav variations, consider using a series of flexbox utilities. While more verbose, these utilities offer greater customization across responsive breakpoints. In the example below, our nav will be stacked on the lowest breakpoint, then adapt to a horizontal layout that fills the available width starting from the small breakpoint.",
+    "snippet": "<nav class=\"nav nav-pills flex-column flex-sm-row\">\r\n  <a class=\"flex-sm-fill text-sm-center nav-link active\" href=\"#!\">Active<\/a>\r\n  <a class=\"flex-sm-fill text-sm-center nav-link\" href=\"#!\">Link<\/a>\r\n  <a class=\"flex-sm-fill text-sm-center nav-link\" href=\"#!\">Link<\/a>\r\n<\/nav>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/navs\/",
+    "type": "Navs",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 01:06:24",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

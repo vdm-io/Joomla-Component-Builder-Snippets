@@ -1,0 +1,16 @@
+{
+    "name": "text-*-left",
+    "heading": "text-*-left",
+    "description": "Documentation and examples for common text utilities to control alignment, wrapping, weight, and more.",
+    "usage": "",
+    "snippet": "<p class=\"text-left\">Left aligned text on all viewport sizes.<\/p>\r\n<p class=\"text-sm-left\">Left aligned text on viewports sized SM (small) or wider.<\/p>\r\n<p class=\"text-md-left\">Left aligned text on viewports sized MD (medium) or wider.<\/p>\r\n<p class=\"text-lg-left\">Left aligned text on viewports sized LG (large) or wider.<\/p>\r\n<p class=\"text-xl-left\">Left aligned text on viewports sized XL (extra-large) or wider.<\/p>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/text\/",
+    "type": "Utility: Text",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 01:48:14",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

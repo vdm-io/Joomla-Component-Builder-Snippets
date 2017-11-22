@@ -1,0 +1,16 @@
+{
+    "name": "clearfix",
+    "heading": "clearfix",
+    "description": "Use these shorthand utilities for quickly configuring the position of an element.",
+    "usage": "",
+    "snippet": "<div class=\"clearfix\">...<\/div>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/position\/",
+    "type": "Utility: Positioning",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 01:38:25",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

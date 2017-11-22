@@ -1,0 +1,16 @@
+{
+    "name": "List Group - Item Disabled",
+    "heading": "list-group-item disabled",
+    "description": "List groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within.",
+    "usage": "Add .disabled to a .list-group-item to make it appear disabled. Note that some elements with .disabled will also require custom JavaScript to fully disable their click events (e.g., links).",
+    "snippet": "<ul class=\"list-group\">\r\n  <li class=\"list-group-item disabled\">Cras justo odio<\/li>\r\n  <li class=\"list-group-item\">Dapibus ac facilisis in<\/li>\r\n  <li class=\"list-group-item\">Morbi leo risus<\/li>\r\n<\/ul>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/list-group\/",
+    "type": "List Group",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 00:59:46",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Media - Nested",
+    "heading": "nested media",
+    "description": "Documentation and examples for Bootstrap's media object to construct highly repetitive components like blog comments, tweets, and the like.",
+    "usage": "Media objects can be infinitely nested, though we suggest you stop at some point. Place nested .media within the .media-body of a parent media object.",
+    "snippet": "<div class=\"media\">\r\n  <img class=\"d-flex mr-3\" src=\"\/images\/pathToYourImage.png\" alt=\"Generic placeholder image\">\r\n  <div class=\"media-body\">\r\n    <h5 class=\"mt-0\">Media heading<\/h5>\r\n    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.\r\n\r\n    <div class=\"media mt-3\">\r\n      <a class=\"d-flex pr-3\" href=\"#!\">\r\n        <img src=\"\/images\/pathToYourImage.png\" alt=\"Generic placeholder image\">\r\n      <\/a>\r\n      <div class=\"media-body\">\r\n        <h5 class=\"mt-0\">Media heading<\/h5>\r\n        Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.\r\n      <\/div>\r\n    <\/div>\r\n  <\/div>\r\n<\/div>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/layout\/media-object\/",
+    "type": "Media Objects",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 01:02:22",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

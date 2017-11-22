@@ -1,0 +1,16 @@
+{
+    "name": "float-*-left",
+    "heading": "float-*-left",
+    "description": "Use these shorthand utilities for quickly configuring the position of an element.",
+    "usage": "",
+    "snippet": "<div class=\"float-left\">Float left on all viewport sizes<\/div>\r\n<div class=\"float-sm-left\">Float left on viewports sized SM (small) or wider<\/div>\r\n<div class=\"float-md-left\">Float left on viewports sized MD (medium) or wider<\/div>\r\n<div class=\"float-lg-left\">Float left on viewports sized LG (large) or wider<\/div>\r\n<div class=\"float-xl-left\">Float left on viewports sized XL (extra-large) or wider<\/div>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/position\/",
+    "type": "Utility: Positioning",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 01:39:20",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Jumbotron",
+    "heading": "jumbotron",
+    "description": "Lightweight, flexible component for showcasing hero unit style content.",
+    "usage": "A lightweight, flexible component that can optionally extend the entire viewport to showcase key marketing messages on your site.",
+    "snippet": "<div class=\"jumbotron\">\r\n  <h1 class=\"display-3\">Hello, world!<\/h1>\r\n  <p class=\"lead\">This is a simple hero unit, a simple jumbotron-style component for\r\n                  calling extra attention to featured content or information.<\/p>\r\n  <hr class=\"my-2\">\r\n  <p>It uses utility classes for typography and\r\n     spacing to space content out within the larger container.<\/p>\r\n  <p class=\"lead\">\r\n    <a class=\"btn btn-primary btn-lg\" href=\"#!\" role=\"button\">Some action<\/a>\r\n  <\/p>\r\n<\/div>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/jumbotron\/",
+    "type": "Jumbotron",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 00:58:04",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

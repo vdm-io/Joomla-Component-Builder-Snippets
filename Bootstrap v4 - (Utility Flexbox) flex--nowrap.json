@@ -1,0 +1,16 @@
+{
+    "name": "flex-*-nowrap",
+    "heading": "flex-*-nowrap",
+    "description": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+    "usage": "",
+    "snippet": "<div class=\"d-flex flex-nowrap\"> ... <\/div>\r\n<div class=\"d-flex flex-sm-nowrap\"> ... <\/div>\r\n<div class=\"d-flex flex-md-nowrap\"> ... <\/div>\r\n<div class=\"d-flex flex-lg-nowrap\"> ... <\/div>\r\n<div class=\"d-flex flex-xl-nowrap\"> ... <\/div>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/flex\/",
+    "type": "Utility: Flexbox",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 01:27:33",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

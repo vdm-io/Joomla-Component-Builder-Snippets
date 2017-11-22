@@ -1,0 +1,16 @@
+{
+    "name": "Progress - Bar with Height",
+    "heading": "progress-bar with height",
+    "description": "Progress components are built with two HTML elements, some CSS to set the width, and a few attributes. We don\u2019t use the HTML5  element, ensuring you can stack progress bars, animate them, and place text labels over them.\r\n\r\n    We use the .progress as a wrapper to indicate the max value of the progress bar.\r\n    We use the inner .progress-bar to indicate the progress so far.\r\n    The .progress-bar requires an inline style, utility class, or custom CSS to set their width.\r\n    The .progress-bar also requires some role and aria attributes to make it accessible.\r\n",
+    "usage": "We only set a height value on the .progress, so if you change that value the inner .progress-bar will automatically resize accordingly.",
+    "snippet": "<div class=\"progress\">\r\n  <div class=\"progress-bar\" role=\"progressbar\" style=\"width: 25%; height: 35px;\" aria-valuenow=\"25\" aria-valuemin=\"0\" aria-valuemax=\"100\"><\/div>\r\n<\/div>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/progress\/",
+    "type": "Progress",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 01:13:49",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

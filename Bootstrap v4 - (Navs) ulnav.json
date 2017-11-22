@@ -1,0 +1,16 @@
+{
+    "name": "ul.nav",
+    "heading": "ul.nav",
+    "description": "Documentation and examples for how to use Bootstrap's included navigation components.",
+    "usage": "Base nav\r\n\r\nNavigation available in Bootstrap share general markup and styles, from the base .nav class to the active and disabled states. Swap modifier classes to switch between each style.\r\n\r\nThe base .nav component is built with flexbox and provide a strong foundation for building all types of navigation components. It includes some style overrides (for working with lists), some link padding for larger hit areas, and basic disabled styling.\r\n\r\nThe base .nav component does not include any .active state. The following examples include the class, mainly to demonstrate that this particular class does not trigger any special styling.\r\n",
+    "snippet": "<nav class=\"nav\">\r\n  <a class=\"nav-link active\" href=\"#!\">Active<\/a>\r\n  <a class=\"nav-link\" href=\"#!\">Link<\/a>\r\n  <a class=\"nav-link disabled\" href=\"#!\">Disabled<\/a>\r\n<\/nav>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/navs\/",
+    "type": "Navs",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 01:04:28",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

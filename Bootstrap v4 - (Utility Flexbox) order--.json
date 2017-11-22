@@ -1,0 +1,16 @@
+{
+    "name": "order-*-#",
+    "heading": "order-*-#",
+    "description": "Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary.",
+    "usage": "",
+    "snippet": "<div class=\"d-flex flex-nowrap\">\r\n  <div class=\"order-8 p-2\">First flex item<\/div>\r\n  <div class=\"order-12 p-2\">Second flex item<\/div>\r\n  <div class=\"order-3 p-2\">Third flex item<\/div>\r\n<\/div>\r\n\r\n<!-- responsive variations -->\r\n<div class=\"order-sm-3\">Flex item<\/div>\r\n<div class=\"order-md-3\">Flex item<\/div>\r\n<div class=\"order-lg-3\">Flex item<\/div>\r\n<div class=\"order-xl-3\">Flex item<\/div>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/flex\/",
+    "type": "Utility: Flexbox",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 01:36:16",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

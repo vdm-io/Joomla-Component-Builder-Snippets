@@ -1,0 +1,16 @@
+{
+    "name": "nested columns",
+    "heading": "nested columns",
+    "description": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+    "usage": "To nest your content with the default grid, add a new .row and set of .col-sm-* columns within an existing .col-sm-* column. Nested rows should include a set of columns that add up to 12 or fewer (it is not required that you use all 12 available columns).",
+    "snippet": "<div class=\"row\">\r\n  <div class=\"col-sm-9\">\r\n    Level 1: .col-sm-9\r\n    <div class=\"row\">\r\n      <div class=\"col-8 col-sm-6\">\r\n        Level 2: .col-8 .col-sm-6\r\n      <\/div>\r\n      <div class=\"col-4 col-sm-6\">\r\n        Level 2: .col-4 .col-sm-6\r\n      <\/div>\r\n    <\/div>\r\n  <\/div>\r\n<\/div>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/layout\/grid\/",
+    "type": "Grid",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 00:57:31",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

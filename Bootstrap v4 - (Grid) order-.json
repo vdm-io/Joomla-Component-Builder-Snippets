@@ -1,0 +1,16 @@
+{
+    "name": "order-#",
+    "heading": "order-#",
+    "description": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+    "usage": "Order classes\r\n\r\nUse .order- classes for controlling the visual order of your content. These classes are responsive, so you can set the order by breakpoint (e.g., .order-1.order-md-2). Includes support for 1 through 12 across all five grid tiers.",
+    "snippet": "<div class=\"container\">\r\n  <div class=\"row\">\r\n    <div class=\"col\">\r\n      First, but unordered\r\n    <\/div>\r\n    <div class=\"col order-12\">\r\n      Second, but last\r\n    <\/div>\r\n    <div class=\"col order-1\">\r\n      Third, but first\r\n    <\/div>\r\n  <\/div>\r\n<\/div>\r\n\r\n<!-- responsive variations -->\r\n<div class=\"col order-sm-3\">Ordered column<\/div>\r\n<div class=\"col order-md-3\">Ordered column<\/div>\r\n<div class=\"col order-lg-3\">Ordered column<\/div>\r\n<div class=\"col order-xl-3\">Ordered column<\/div>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/layout\/grid\/",
+    "type": "Grid",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 00:57:20",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

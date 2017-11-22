@@ -1,0 +1,16 @@
+{
+    "name": "Container - Fluid",
+    "heading": "container-fluid",
+    "description": "Use our powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.",
+    "usage": "Containers provide a means to center and horizontally pad your site\u2019s contents. Use .container for a responsive pixel width or .container-fluid for width: 100% across all viewport and device sizes.",
+    "snippet": "<div class=\"container-fluid\">\r\n  <!-- A fluid container that uses the full witdh -->\r\n<\/div>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/layout\/grid\/",
+    "type": "Grid",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 00:55:30",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

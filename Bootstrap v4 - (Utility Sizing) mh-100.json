@@ -1,0 +1,16 @@
+{
+    "name": "mh-100",
+    "heading": "mh-100",
+    "description": "Easily make an element as wide or as tall (relative to its parent) with our width and height utilities.",
+    "usage": "",
+    "snippet": "<img class=\"mh-100\" src=\"# alt=\" max-height=\"\" 100%\"=\"\">",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/sizing\/",
+    "type": "Utility: Sizing",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 01:40:53",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

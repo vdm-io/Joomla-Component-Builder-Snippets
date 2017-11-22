@@ -1,0 +1,16 @@
+{
+    "name": "Modal",
+    "heading": "modal",
+    "description": "Use Bootstrap's JavaScript modal plugin to add dialogs to your site for lightboxes, user notifications, or completely custom content.",
+    "usage": "Before getting started with Bootstrap\u2019s modal component, be sure to read the following as our menu options have recently changed.\r\n\r\n    Modals are built with HTML, CSS, and JavaScript. They\u2019re positioned over everything else in the document and remove scroll from the  so that modal content scrolls instead.\r\n    Clicking on the modal \u201cbackdrop\u201d will automatically close the modal.\r\n    Bootstrap only supports one modal window at a time. Nested modals aren\u2019t supported as we believe them to be poor user experiences.\r\n    Modals use position: fixed, which can sometimes be a bit particular about its rendering. Whenever possible, place your modal HTML in a top-level position to avoid potential interference from other elements. You\u2019ll likely run into issues when nesting a .modal within another fixed element.\r\n    Once again, due to position: fixed, there are some caveats with using modals on mobile devices. See our browser support docs for details.\r\n    Due to how HTML5 defines its semantics, the autofocus HTML attribute has no effect in Bootstrap modals. To achieve the same effect, use some custom JavaScript:\r\n\r\n$('#myModal').on('shown.bs.modal', function () {\r\n  $('#myInput').trigger('focus')\r\n})",
+    "snippet": "<!-- Button trigger modal -->\r\n<button type=\"button\" class=\"btn btn-primary\" data-toggle=\"modal\" data-target=\"#exampleModal\">\r\n  Launch demo modal\r\n<\/button>\r\n\r\n<!-- Modal -->\r\n<div class=\"modal\" id=\"exampleModal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"exampleModalLabel\" aria-hidden=\"true\">\r\n  <div class=\"modal-dialog\" role=\"document\">\r\n    <div class=\"modal-content\">\r\n      <div class=\"modal-header\">\r\n        <h5 class=\"modal-title\" id=\"exampleModalLabel\">Modal title<\/h5>\r\n        <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\">\r\n          <span aria-hidden=\"true\">\u00d7<\/span>\r\n        <\/button>\r\n      <\/div>\r\n      <div class=\"modal-body\">\r\n        ...\r\n      <\/div>\r\n      <div class=\"modal-footer\">\r\n        <button type=\"button\" class=\"btn btn-secondary\" data-dismiss=\"modal\">Close<\/button>\r\n        <button type=\"button\" class=\"btn btn-primary\">Save changes<\/button>\r\n      <\/div>\r\n    <\/div>\r\n  <\/div>\r\n<\/div>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/modal\/",
+    "type": "Modal",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 01:03:49",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

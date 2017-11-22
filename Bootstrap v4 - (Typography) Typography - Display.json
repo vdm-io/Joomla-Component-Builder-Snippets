@@ -1,0 +1,16 @@
+{
+    "name": "Typography - Display",
+    "heading": "display-# (1-4)",
+    "description": "Traditional heading elements are designed to work best in the meat of your page content. When you need a heading to stand out, consider using a display heading\u2014a larger, slightly more opinionated heading style.",
+    "usage": "",
+    "snippet": "<h1 class=\"display-1\">Display 1<\/h1>\r\n<h1 class=\"display-2\">Display 2<\/h1>\r\n<h1 class=\"display-3\">Display 3<\/h1>\r\n<h1 class=\"display-4\">Display 4<\/h1>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/content\/typography\/",
+    "type": "Typography",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 00:09:59",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

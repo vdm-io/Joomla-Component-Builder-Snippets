@@ -1,0 +1,16 @@
+{
+    "name": "Custom - Select",
+    "heading": "custom-select",
+    "description": "For even more customization and cross browser consistency, use our completely custom form elements to replace the browser defaults. They\u2019re built on top of semantic and accessible markup, so they\u2019re solid replacements for any default form control.",
+    "usage": "Custom  menus need only a custom class, .custom-select to trigger the custom styles.",
+    "snippet": "<select class=\"custom-select\">\r\n  <option selected=\"\">Open this select menu<\/option>\r\n  <option value=\"1\">One<\/option>\r\n  <option value=\"2\">Two<\/option>\r\n  <option value=\"3\">Three<\/option>\r\n<\/select>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/components\/forms\/#custom-forms",
+    "type": "Custom Forms",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 00:54:26",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

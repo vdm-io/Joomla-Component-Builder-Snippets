@@ -1,0 +1,16 @@
+{
+    "name": "Rounded",
+    "heading": "rounded",
+    "description": "Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element.",
+    "usage": "Add classes to an element to easily round its corners.",
+    "snippet": "<img class=\"rounded\" src=\"\/images\/pathToYourImage.png\" alt=\"Rounded image\">",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/borders\/",
+    "type": "Utility: Borders",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 00:14:31",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}

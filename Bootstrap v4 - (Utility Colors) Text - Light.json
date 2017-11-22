@@ -1,0 +1,16 @@
+{
+    "name": "Text - Light",
+    "heading": "text-light",
+    "description": "Convey meaning through color with a handful of color utility classes. Includes support for styling links with hover states, too.",
+    "usage": "Contextual text classes also work well on anchors with the provided hover and focus states. Note that the .text-white and .text-muted class has no link styling.",
+    "snippet": "<p class=\"text-light\">Nullam id dolor id nibh ultricies vehicula ut id elit.<\/p>",
+    "url": "https:\/\/getbootstrap.com\/docs\/4.0\/utilities\/colors\/",
+    "type": "Utility: Colors",
+    "library": "Bootstrap v4",
+    "created": "2017-11-01 00:00:00",
+    "modified": "2017-11-22 00:17:23",
+    "contributor_company": "Most Wanted Web Services, Inc.",
+    "contributor_name": "Steve Voorhees",
+    "contributor_email": "sales@mwweb.host",
+    "contributor_website": "https:\/\/mostwantedwebhosting.com"
+}
