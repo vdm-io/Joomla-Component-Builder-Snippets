@@ -1,0 +1,16 @@
+{
+    "name": "Article",
+    "heading": "Create articles within your page.",
+    "description": "",
+    "usage": "The article component consists of the article itself, a title and meta data.\r\n\r\n.uk-article \tAdd this class to define the Article component. Typically you would use an  element for this.\r\n\r\n.uk-article-title \tAdd this class to a heading to create an article title. Typically you would use a  element for this.\r\n\r\n.uk-article-meta \tAdd this class to a paragraph which contains meta data about your article.",
+    "snippet": "<article class=\"uk-article\">\r\n    <h1 class=\"uk-article-title\"><a class=\"uk-link-reset\" href=\"\">Heading<\/a><\/h1>\r\n\r\n    <p class=\"uk-article-meta\">Written by <a href=\"#\">Super User<\/a> on 12 April 2012. Posted in <a href=\"#\">Blog<\/a><\/p>\r\n\r\n    <p class=\"uk-text-lead\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.<\/p>\r\n\r\n    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>\r\n\r\n    <div class=\"uk-grid-small uk-child-width-auto\" uk-grid>\r\n        <div>\r\n            <a class=\"uk-button uk-button-text\" href=\"#\">Read more<\/a>\r\n        <\/div>\r\n        <div>\r\n            <a class=\"uk-button uk-button-text\" href=\"#\">5 Comments<\/a>\r\n        <\/div>\r\n    <\/div>\r\n<\/article>",
+    "url": "https:\/\/getuikit.com\/docs\/article",
+    "type": "Layout",
+    "library": "Uikit v3",
+    "created": "2019-01-28 19:02:22",
+    "modified": "2017-11-20 23:41:14",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

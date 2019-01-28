@@ -1,0 +1,16 @@
+{
+    "name": "Button Group",
+    "heading": "Easily create nice looking buttons, which come in different styles.",
+    "description": "",
+    "usage": "To create a button group, add the .uk-button-group class to a  element around the buttons. That's it! No further markup needed.",
+    "snippet": "<div class=\"uk-button-group\">\r\n    <button class=\"uk-button uk-button-default\"><\/button>\r\n    <button class=\"uk-button uk-button-default\"><\/button>\r\n    <button class=\"uk-button uk-button-default\"><\/button>\r\n<\/div>",
+    "url": "https:\/\/getuikit.com\/docs\/button",
+    "type": "Button Groups",
+    "library": "Uikit v3",
+    "created": "2019-01-28 19:23:09",
+    "modified": "2019-01-28 19:44:21",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

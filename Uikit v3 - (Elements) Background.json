@@ -1,0 +1,16 @@
+{
+    "name": "Background",
+    "heading": "A collection of utility classes to add different backgrounds to elements.",
+    "description": "",
+    "usage": "To apply a background color to an element, add one of the following classes. The actual color for each modifier is defined by the UIkit style that you have chosen or customized.\r\n\r\n.uk-background-default             Applies the default background color.\r\n.uk-background-muted             Applies a muted background color.\r\n.uk-background-primary            Applies the primary background color.\r\n.uk-background-secondary       Applies a secondary background color.\r\n\r\nNote To adapt your content for better visibility on each background, add the .uk-light or .uk-dark class from the Inverse component. Use the Padding component to add some padding to the elements.",
+    "snippet": "<div class=\"uk-child-width-1-2@s uk-text-center\" uk-grid>\r\n    <div>\r\n        <div class=\"uk-background-default uk-padding uk-panel\">\r\n            <p class=\"uk-h4\">Default<\/p>\r\n        <\/div>\r\n    <\/div>\r\n    <div>\r\n        <div class=\"uk-background-muted uk-padding uk-panel\">\r\n            <p class=\"uk-h4\">Muted<\/p>\r\n        <\/div>\r\n    <\/div>\r\n    <div>\r\n        <div class=\"uk-background-primary uk-light uk-padding uk-panel\">\r\n            <p class=\"uk-h4\">Primary<\/p>\r\n        <\/div>\r\n    <\/div>\r\n    <div>\r\n        <div class=\"uk-background-secondary uk-light uk-padding uk-panel\">\r\n            <p class=\"uk-h4\">Secondary<\/p>\r\n        <\/div>\r\n    <\/div>\r\n<\/div>",
+    "url": "https:\/\/getuikit.com\/docs\/background",
+    "type": "Elements",
+    "library": "Uikit v3",
+    "created": "2019-01-28 19:07:33",
+    "modified": "2017-11-20 23:41:14",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Alert",
+    "heading": "Display success, warning and error messages.",
+    "description": "",
+    "usage": "To apply this component, add the uk-alert attribute to a block element.\r\n\r\n\r\n\r\n",
+    "snippet": "<div uk-alert>\r\n    <a class=\"uk-alert-close\" uk-close><\/a>\r\n    <h3>Notice<\/h3>\r\n    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>\r\n<\/div>",
+    "url": "https:\/\/getuikit.com\/docs\/alert",
+    "type": "Alerts",
+    "library": "Uikit v3",
+    "created": "2019-01-28 18:51:14",
+    "modified": "2017-11-20 23:41:14",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

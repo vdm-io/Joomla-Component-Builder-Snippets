@@ -1,0 +1,16 @@
+{
+    "name": "Cover Image",
+    "heading": "Expand images, videos or iframes to cover their entire container and place your own content on top.",
+    "description": "",
+    "usage": "To have an image cover its parent element, add the .uk-cover-container class to the parent and the uk-cover attribute to the image.\r\n\r\nNote To position content on top of the covering element, use the Position component. To adapt your content for better visibility, add the .uk-light or .uk-dark class from the Inverse component.",
+    "snippet": "<div class=\"uk-cover-container uk-height-medium\">\r\n    <img src=\"https:\/\/getuikit.com\/docs\/images\/dark.jpg\" alt=\"\" uk-cover>\r\n<\/div>",
+    "url": "https:\/\/getuikit.com\/docs\/container",
+    "type": "Layout",
+    "library": "Uikit v3",
+    "created": "2019-01-28 21:33:26",
+    "modified": "2019-01-28 19:43:57",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

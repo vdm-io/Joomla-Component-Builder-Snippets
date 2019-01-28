@@ -1,0 +1,16 @@
+{
+    "name": "Cover Video",
+    "heading": "Expand images, videos or iframes to cover their entire container and place your own content on top.",
+    "description": "",
+    "usage": "To create a video that covers its parent container, add the uk-cover attribute to a video. Wrap a container element around the video and add the .uk-cover-container class to clip the content.\r\n\r\nThe Cover component inherits all properties from the Video component which means videos are muted and play automatically. The video will pause whenever it's not visible and resume once it becomes visible again.",
+    "snippet": "<div class=\"uk-cover-container uk-height-medium\">\r\n    <video autoplay loop muted playsinline uk-cover>\r\n        <source src=\"https:\/\/quirksmode.org\/html5\/videos\/big_buck_bunny.mp4\" type=\"video\/mp4\">\r\n        <source src=\"https:\/\/quirksmode.org\/html5\/videos\/big_buck_bunny.ogv\" type=\"video\/ogg\">\r\n    <\/video>\r\n<\/div>",
+    "url": "https:\/\/getuikit.com\/docs\/container",
+    "type": "Layout",
+    "library": "Uikit v3",
+    "created": "2019-01-28 21:33:56",
+    "modified": "2019-01-28 19:43:57",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

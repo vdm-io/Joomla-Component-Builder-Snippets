@@ -1,0 +1,16 @@
+{
+    "name": "Dotnav",
+    "heading": "Create a dot navigation to operate slideshows or to scroll to different page sections.",
+    "description": "",
+    "usage": "To create a navigation with dots, use the following classes. This component is built with Flexbox. So to align a dotnav, you can use Flex component.\r\n\r\n.uk-dotnav \tAdd this class to a  ul  element to define the Dotnav component. Use  a  elements as nav items within the list.\r\n.uk-active \tAdd this class to a list item to apply an active state.",
+    "snippet": "<ul class=\"uk-dotnav\">\r\n    <li class=\"uk-active\"><a href=\"#\">Item 1<\/a><\/li>\r\n    <li><a href=\"#\">Item 2<\/a><\/li>\r\n    <li><a href=\"#\">Item 3<\/a><\/li>\r\n    <li><a href=\"#\">Item 4<\/a><\/li>\r\n    <li><a href=\"#\">Item 5<\/a><\/li>\r\n<\/ul>",
+    "url": "https:\/\/getuikit.com\/docs\/dotnav",
+    "type": "Navs",
+    "library": "Uikit v3",
+    "created": "2019-01-28 21:37:57",
+    "modified": "2019-01-28 19:43:57",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

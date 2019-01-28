@@ -1,0 +1,16 @@
+{
+    "name": "Badge",
+    "heading": "Easily create nice looking notification badges.",
+    "description": "",
+    "usage": "To create a badge, just add the .uk-badge class to an inline element like  or  element.",
+    "snippet": "<span class=\"uk-badge\">1<\/span>\r\n<span class=\"uk-badge\">100<\/span>",
+    "url": "https:\/\/getuikit.com\/docs\/badge",
+    "type": "Badges",
+    "library": "Uikit v3",
+    "created": "2019-01-28 19:08:21",
+    "modified": "2017-11-20 23:41:14",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

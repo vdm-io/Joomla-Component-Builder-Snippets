@@ -1,0 +1,16 @@
+{
+    "name": "Dropdown",
+    "heading": "Defines different styles for a toggleable dropdown.",
+    "description": "",
+    "usage": "Basically, a dropdown is a specific case of the drop that provides its own styling. Any content, like a button, can toggle a dropdown. Just add the uk-dropdown attribute to a block element following the toggle.\r\n\r\nA dropdown can be enabled by hovering and clicking the toggle. Just add the mode: click option to the attribute to force click mode only. If you want to group the toggle and the dropdown, you can just add the .uk-inline class from the Utility component to a container element around both.",
+    "snippet": "<div class=\"uk-inline\">\r\n    <button class=\"uk-button uk-button-default\" type=\"button\">Hover<\/button>\r\n    <div uk-dropdown>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.<\/div>\r\n<\/div>\r\n\r\n<div class=\"uk-inline\">\r\n    <button class=\"uk-button uk-button-default\" type=\"button\">Click<\/button>\r\n    <div uk-dropdown=\"mode: click\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.<\/div>\r\n<\/div>",
+    "url": "https:\/\/getuikit.com\/docs\/dropdown",
+    "type": "Dropdowns",
+    "library": "Uikit v3",
+    "created": "2019-01-28 21:39:58",
+    "modified": "2019-01-28 21:40:13",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

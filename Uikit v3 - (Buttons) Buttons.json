@@ -1,0 +1,16 @@
+{
+    "name": "Buttons",
+    "heading": "Easily create nice looking buttons, which come in different styles.",
+    "description": "",
+    "usage": "To apply this component, add the .uk-button class and a modifier such as .uk-button-default to an  or  element. Add the disabled attribute to a  element to disable the button.\r\n\r\nNote If you are displaying a number of buttons in a row, you can add a top margin to them, when they stack on smaller viewports. Just add the uk-margin attribute from the Margin component to their parent element.",
+    "snippet": "<p uk-margin>\r\n    <a class=\"uk-button uk-button-default\" href=\"#\">Link<\/a>\r\n    <button class=\"uk-button uk-button-default\">Button<\/button>\r\n    <button class=\"uk-button uk-button-default\" disabled>Disabled<\/button>\r\n<\/p>",
+    "url": "https:\/\/getuikit.com\/docs\/button",
+    "type": "Buttons",
+    "library": "Uikit v3",
+    "created": "2019-01-28 19:13:10",
+    "modified": "2019-01-28 19:12:54",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Countdown",
+    "heading": "Create a simple countdown timer.",
+    "description": "",
+    "usage": "To apply this component, add the uk-countdown attribute to a container element and define a date when the countdown should expire. Just add date: YYYY-MM-DDThh:mm:ssTZD option to the attribute, using the ISO 8601 format, e.g. 2017-12-04T22:00:00+00:00 (UTC time).\r\n\r\nAdd the following classes to child elements to apply the necessary functionality and styling.\r\n\r\n.uk-countdown-days \tAdd this class to indicate the days to be counted down.\r\n.uk-countdown-hours \tAdd this class to indicate the hours to be counted down.\r\n.uk-countdown-minutes \tAdd this class to indicate the minutes to be counted down.\r\n.uk-countdown-seconds \tAdd this class to indicate the seconds to be counted down.\r\n.uk-countdown-number \tThis class adds the neccessary style to a countdown number.\r\n\r\nTo insert a separator between each number, use the .uk-countdown-separator class.",
+    "snippet": "<div class=\"uk-grid-small uk-child-width-auto uk-margin\" uk-grid uk-countdown=\"date: 2019-02-04T21:29:38+00:00\">\r\n    <div>\r\n        <div class=\"uk-countdown-number uk-countdown-days\"><\/div>\r\n    <\/div>\r\n    <div class=\"uk-countdown-separator\">:<\/div>\r\n    <div>\r\n        <div class=\"uk-countdown-number uk-countdown-hours\"><\/div>\r\n    <\/div>\r\n    <div class=\"uk-countdown-separator\">:<\/div>\r\n    <div>\r\n        <div class=\"uk-countdown-number uk-countdown-minutes\"><\/div>\r\n    <\/div>\r\n    <div class=\"uk-countdown-separator\">:<\/div>\r\n    <div>\r\n        <div class=\"uk-countdown-number uk-countdown-seconds\"><\/div>\r\n    <\/div>\r\n<\/div>",
+    "url": "https:\/\/getuikit.com\/docs\/countdown",
+    "type": "JavaScript",
+    "library": "Uikit v3",
+    "created": "2019-01-28 21:31:22",
+    "modified": "2019-01-28 21:31:48",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

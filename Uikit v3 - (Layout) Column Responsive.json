@@ -1,0 +1,16 @@
+{
+    "name": "Column Responsive",
+    "heading": "Display your content in multiple text columns without having to split it in several containers.",
+    "description": "",
+    "usage": "UIkit provides a number of responsive column classes. Basically they work just like the usual column classes, except that they have suffixes that represent the breakpoint from which they come to effect.\r\n\r\n.uk-column-1-2@s to .uk-column-1-6@s \tOnly affects device widths of 640px and higher.\r\n.uk-column-1-2@m to .uk-column-1-6@m \tOnly affects device widths of 960px and higher.\r\n.uk-column-1-2@l to .uk-column-1-6@l \tOnly affects device widths of 1200px and higher.\r\n.uk-column-1-2@xl to .uk-column-1-6@xl \tOnly affects device widths of 1600px and higher.",
+    "snippet": "<div class=\"uk-column-1-2@s uk-column-1-3@m uk-column-1-4@l\">\r\n    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.<\/p>\r\n\r\n    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>\r\n\r\n    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.<\/p>\r\n<\/div>",
+    "url": "https:\/\/getuikit.com\/docs\/column",
+    "type": "Layout",
+    "library": "Uikit v3",
+    "created": "2019-01-28 21:24:13",
+    "modified": "2019-01-28 19:43:57",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

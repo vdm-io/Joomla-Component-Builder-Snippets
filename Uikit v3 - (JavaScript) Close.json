@@ -1,0 +1,16 @@
+{
+    "name": "Close",
+    "heading": "Create a close icon that can be combined with different components.",
+    "description": "",
+    "usage": "To apply this component, add the uk-close attribute to an a tag or button element.",
+    "snippet": "<button type=\"button\" uk-close><\/button>",
+    "url": "https:\/\/getuikit.com\/docs\/close",
+    "type": "JavaScript",
+    "library": "Uikit v3",
+    "created": "2019-01-28 19:27:02",
+    "modified": "2019-01-28 19:43:57",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

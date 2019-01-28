@@ -1,0 +1,16 @@
+{
+    "name": "Comment",
+    "heading": "Includes styles for comments, for example for a blog section on your site.",
+    "description": "",
+    "usage": "The Comment component consists of the comment itself, a comment header, including an avatar, a title and meta data, and a comment body.\r\n\r\n.uk-comment \tAdd this class to define the Comment component.\r\n.uk-comment-body \tAdd this class to create a comment body.\r\n.uk-comment-header \tAdd this class to create a comment header.\r\n.uk-comment-title \tAdd this class to a heading to create a comment title.\r\n.uk-comment-meta \tAdd this class to create meta data about your comment, e.g. a subnav.\r\n.uk-comment-avatar \tAdd this class to an  element to create an avatar for the comment author.",
+    "snippet": "<article class=\"uk-comment\">\r\n    <header class=\"uk-comment-header uk-grid-medium uk-flex-middle\" uk-grid>\r\n        <div class=\"uk-width-auto\">\r\n            <img class=\"uk-comment-avatar\" src=\"images\/avatar.jpg\" width=\"80\" height=\"80\" alt=\"\">\r\n        <\/div>\r\n        <div class=\"uk-width-expand\">\r\n            <h4 class=\"uk-comment-title uk-margin-remove\"><a class=\"uk-link-reset\" href=\"#\">Author<\/a><\/h4>\r\n            <ul class=\"uk-comment-meta uk-subnav uk-subnav-divider uk-margin-remove-top\">\r\n                <li><a href=\"#\">12 days ago<\/a><\/li>\r\n                <li><a href=\"#\">Reply<\/a><\/li>\r\n            <\/ul>\r\n        <\/div>\r\n    <\/header>\r\n    <div class=\"uk-comment-body\">\r\n        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.<\/p>\r\n    <\/div>\r\n<\/article>",
+    "url": "https:\/\/getuikit.com\/docs\/comment",
+    "type": "Layout",
+    "library": "Uikit v3",
+    "created": "2019-01-28 21:27:16",
+    "modified": "2019-01-28 19:43:57",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

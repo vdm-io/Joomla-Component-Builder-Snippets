@@ -1,0 +1,16 @@
+{
+    "name": "Column",
+    "heading": "Display your content in multiple text columns without having to split it in several containers.",
+    "description": "",
+    "usage": "Add one of the .uk-column-* classes to an element to display its inline content in multiple columns.\r\n\r\n.uk-column-1-2 \tDisplay the content in two columns.\r\n.uk-column-1-3 \tDisplay the content in three columns.\r\n.uk-column-1-4 \tDisplay the content in four columns.\r\n.uk-column-1-5 \tDisplay the content in five columns.\r\n.uk-column-1-6 \tDisplay the content in six columns.",
+    "snippet": "<div class=\"uk-column-1-2\">\r\n    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.<\/p>\r\n\r\n    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>\r\n\r\n    <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.<\/p>\r\n<\/div>",
+    "url": "https:\/\/getuikit.com\/docs\/column",
+    "type": "Layout",
+    "library": "Uikit v3",
+    "created": "2019-01-28 21:23:39",
+    "modified": "2019-01-28 19:43:57",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}

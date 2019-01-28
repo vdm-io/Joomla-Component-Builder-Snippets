@@ -1,0 +1,16 @@
+{
+    "name": "Description list",
+    "heading": "Easily create nice looking description lists, which come in different styles.",
+    "description": "",
+    "usage": "Add the .uk-description-list class to display terms and descriptions below each other.",
+    "snippet": "<dl class=\"uk-description-list\">\r\n    <dt>Description term<\/dt>\r\n    <dd>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<\/dd>\r\n    <dt>Description term<\/dt>\r\n    <dd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/dd>\r\n    <dt>Description term<\/dt>\r\n    <dd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/dd>\r\n<\/dl>",
+    "url": "https:\/\/getuikit.com\/docs\/description-list",
+    "type": "List Group",
+    "library": "Uikit v3",
+    "created": "2019-01-28 21:36:34",
+    "modified": "2019-01-28 19:43:57",
+    "contributor_company": "Vast Development Method",
+    "contributor_name": "Llewellyn van der Merwe",
+    "contributor_email": "joomla@vdm.io",
+    "contributor_website": "https:\/\/www.vdm.io\/"
+}
